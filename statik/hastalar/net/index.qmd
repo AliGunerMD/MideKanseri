@@ -1,0 +1,82 @@
+---
+title: "Mide NET (Nöroendokrin Tümör)"
+---
+
+
+Mide kaynaklı nöroendokrin tümörler (Gastric NET), midenin endokrin hücrelerinden köken alan, nadir görülmekle birlikte son yıllarda tanı oranı artan neoplazmlardır. Mide duvarında bulunan enteroendokrin hücrelerden kaynaklanırlar. Klinik davranışları, histolojik özellikleri ve tedavi seçenekleri bakımından heterojen bir tümör grubu oluştururlar.
+
+
+Gastric NET’ler, gastrointestinal sistemdeki tüm nöroendokrin tümörlerin yaklaşık %20’sini ve mide tümörlerinin ise %2-3’ünü oluşturur. Genellikle 50 yaş üzerinde, kadın ve erkeklerde benzer sıklıkta görülür. Tanı olan olguların sayısı, görüntüleme ve endoskopi tekniklerinin yaygınlaşmasıyla artmıştır.
+
+## Sınıflandırma ve Patogenez
+
+Gastric NET’ler klinik ve histopatolojik olarak 3 ana tipe ayrılır:
+
+1. **Tip I Gastric NET:**  
+   - En sık görülen tiptir. Kronik atrofik gastrit ve pernisiyöz anemi zemininde gelişir.  
+   - Gastrin fazlalığına bağlı olarak ECL (Enterokromaffin-like) hücre hiperplazisiyle ilişkilidir ve sıklıkla multipl, çapı küçük ve iyi diferansiye lezyonlardır.  
+   - Lenf nodu ve uzak metastaz nadirdir.
+
+2. **Tip II Gastric NET:**  
+   - Zollinger-Ellison sendromu ve multipl endokrin neoplazi (MEN) tip 1 ile ilişkilidir.  
+   - Yine gastrin fazlalığı ve ECL hücre hiperplazisi mevcuttur.  
+   - Multipl, küçük ve genellikle benign seyirli lezyonlar görülür.
+
+3. **Tip III Gastric NET:**  
+   - Sporadik, gastrin düzeylerinden bağımsız ve genelde tek, büyük çaplı tümörlerdir.  
+   - Agresif seyirli, sık lenf nodu ve uzak organ metastazı yapabilen ve kötü prognoza sahip tümörlerdir.
+
+Nadir olarak, kötü diferansiye büyük hücreli veya küçük hücreli nöroendokrin karsinomlar da mideyi tutabilir ve çok daha agresif davranış gösterir.
+
+## Klinik Belirtiler
+
+Çoğu gastric NET olgusu asemptomatiktir ve endoskopik inceleme sırasında tesadüfen saptanır. Ancak ilerleyen veya büyük çaplı tümörlerde şu semptomlar görülebilir:
+
+- Epigastrik ağrı veya rahatsızlık
+- Bulantı, nadiren kusma
+- İştahta azalma ve kilo kaybı
+- Gizli ya da açık GİS kanaması (melena, hematemez)
+- Pernisiyöz anemi veya kronik atrofik gastrite bağlı bulgular (yorgunluk, halsizlik)
+- Fonksiyonel tümörlerde gastrin fazlalığına bağlı ishal, ülser
+
+## Tanı Yöntemleri
+
+### 1. Endoskopi
+Gastric NET’ler sıklıkla küçük, yuvarlak, düzgün sınırlı mukozal-submukozal lezyonlar olarak görülür. Sayı, büyüklük ve yerleşim özellikleri endoskopik görüntüde yol göstericidir.  
+Kesin tanı için biyopsi şarttır.
+
+### 2. Görüntüleme Yöntemleri
+BT, MR, PET/BT, vd
+
+
+### 3. Laboratuvar Tetkikleri
+- **Serum gastrin düzeyi:** Tip I ve II NET’lerde yüksektir.
+- **Kromogranin A ve 5-HIAA:** Nöroendokrin aktivitenin göstergelerindendir.
+- **Vitamin B12 ve antikorpus parietal hücre antikoru:** Pernisiyöz anemi araştırmasında yararlıdır.
+
+## Tedavi
+
+Tedavi, tümör tipi, boyutu, sayısı, derecesi ve yayılımına göre değişir:
+
+### Tip I ve II Gastric NET  
+- Boyutu 1 cm’nin altında ve yayılım göstermeyen tümörlerde endoskopik rezeksiyon (kapon, EMR veya ESD) yeterlidir.
+- Kapsamlı hastalıklarda veya nüks durumunda cerrahi (parsiyel/total gastrektomi) düşünülebilir.
+- H2 reseptör antagonisti veya somatostatin analogları nadiren tedavide yer alır.
+
+### Tip III Gastric NET ve Kötü Diferansiye Nöroendokrin Karsinomlar  
+- Erken dönemde cerrahi (parsiyel veya total gastrektomi, lenfadenektomi) altın standarttır.
+- Metastatik hastalıkta sistemik kemoterapi veya somatostatin analogları, hedefe yönelik tedaviler uygulanabilir.
+
+## Prognoz
+
+- **Tip I ve II gastric NET’lerin prognozu genellikle mükemmeldir;** lokalize, düşük dereceli ve yavaş seyirli hastalık görülür, sağkalım oranları yüksektir.
+- **Tip III ve kötü diferansiye olguların prognozu kötü olup, hızlı ilerleyebilir** ve metastaz olasılığı yüksektir.
+- Düzenli endoskopik takip, erken tanı ve tedavi şansını artırır.
+
+::: {.callout-note}
+Gastric NET’ler, tipine göre oldukça değişken biyolojik davranış sergilemekle birlikte, çoğu olgu uygun tedaviyle başarılı şekilde yönetilebilir. Tanı ve tedavide multidisipliner yaklaşım hayati önem taşır.
+:::
+
+
+
+**Sayfa içeriği sadece bilgilendirme amaçlıdır, tanı ve tedavi için mutlaka doktorunuza başvurunuz.**

@@ -1,0 +1,387 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Mide Kanseri üzerine herşey",
+    "section": "",
+    "text": "Bu internet sayfası, ömrünü mide kanserinin tanı ve tedavisi için geçirmiş olan bir hekimin en büyük hayali olan “Dünya üzerindeki herkes en gelişmiş tedavi olanaklarına ulaşabilmelidir” idealinin gerçekleşmesine yardımcı olması için oluşturulmuştur.\n\n\n\n\n\n\nMide kanseri ve diğer mide tümörleri (GİST, Nöroendokrin tümör gibi)\n\nYemek borusu (Özofagus) tümörleri\nPankreas kanseri\n\nKolon, rektum, ince barsak kanserleri\n\nHIPEC/PIPAC (Sıcak kemoterapi)\n\n\n\n\n\nMide balonu/ Mide botoksu\nTüp mide (sleeve gastrektomi)\n\nGastrik bypass ve revizyon cerrahileri\n\n\n\n\n\nGastroözofageal reflü hastalığı\n\nMide fıtığı (hiatal herni)\n\nSafra kesesi taşları ve safra yolları hastalıkları\n\nKarın duvarı fıtıkları\n\nEndoskopik/laparoskopik cerrahi\nTüm gastrointestinal sistem hastalıkları\n\n\n\n\n\n\n\n\n\n\n\nPoliklinik sekreterliği: 0 (462) 377 5485\nPoliklinik sekreterliği: 0 (462) 377 5612\nemail: draliguner@yahoo.com\n\n\n\nKaradeniz Teknik Üniversitesi\nTıp Fakültesi Farabi Hastanesi\nGenel Cerrahi Polikliniği\nTrabzon/Türkiye\n\n\n\n\nBu internet sitesi ve sayfa içeriği sadece bilgilendirme amaçlıdır, tanı ve tedavi için mutlaka doktorunuza başvurunuz."
+  },
+  {
+    "objectID": "index.html#hızlı-erişim",
+    "href": "index.html#hızlı-erişim",
+    "title": "Mide Kanseri üzerine herşey",
+    "section": "",
+    "text": "Poliklinik sekreterliği: 0 (462) 377 5485\nPoliklinik sekreterliği: 0 (462) 377 5612\nemail: draliguner@yahoo.com\n\n\n\nKaradeniz Teknik Üniversitesi\nTıp Fakültesi Farabi Hastanesi\nGenel Cerrahi Polikliniği\nTrabzon/Türkiye\n\n\n\n\nBu internet sitesi ve sayfa içeriği sadece bilgilendirme amaçlıdır, tanı ve tedavi için mutlaka doktorunuza başvurunuz."
+  },
+  {
+    "objectID": "index.html#istatistikler",
+    "href": "index.html#istatistikler",
+    "title": "Mide Kanseri Bilgi Platformu",
+    "section": "",
+    "text": "#| echo: false #| warning: false\nlibrary(ggplot2) library(dplyr)"
+  },
+  {
+    "objectID": "statik/doktorlar/makaleler/index.html",
+    "href": "statik/doktorlar/makaleler/index.html",
+    "title": "makaleler",
+    "section": "",
+    "text": "makaleler Sayfası\nBu sayfa henüz içerikle doldurulmamıştır."
+  },
+  {
+    "objectID": "statik/doktorlar/kilavuzlar/index.html",
+    "href": "statik/doktorlar/kilavuzlar/index.html",
+    "title": "kilavuzlar",
+    "section": "",
+    "text": "Japon Kılavuzu (6.edisyon)\nKore Kılavuzu (2024)\nESMO Kılavuzu (2022)\nNCCN Kılavuzu (2025.02)"
+  },
+  {
+    "objectID": "statik/diger/herni/index.html",
+    "href": "statik/diger/herni/index.html",
+    "title": "herni",
+    "section": "",
+    "text": "herni Sayfası\nBu sayfa henüz içerikle doldurulmamıştır."
+  },
+  {
+    "objectID": "statik/diger/ozofagus/index.html",
+    "href": "statik/diger/ozofagus/index.html",
+    "title": "ozofagus",
+    "section": "",
+    "text": "ozofagus Sayfası\nBu sayfa henüz içerikle doldurulmamıştır."
+  },
+  {
+    "objectID": "statik/diger/pankreas/index.html",
+    "href": "statik/diger/pankreas/index.html",
+    "title": "pankreas",
+    "section": "",
+    "text": "pankreas Sayfası\nBu sayfa henüz içerikle doldurulmamıştır."
+  },
+  {
+    "objectID": "statik/hastalar/gist/index.html",
+    "href": "statik/hastalar/gist/index.html",
+    "title": "Mide GİST (Gastrointestinal Stromal Tümor)",
+    "section": "",
+    "text": "Mide GİST, gastrointestinal sistemin bağ dokusundan kaynaklanan nadir bir tümör türüdür. Genellikle mide duvarında bulunan stromal hücrelerden köken alarak gelişir. Mide GİST’leri, nadir görülmesine rağmen, gastrointestinal sistemin en sık görülen mezodermal tümörleri arasında yer alır.\nMide GİST, tüm kanser vakaları arasında yaklaşık %1 oranında görülmektedir. Tedavi edilmediğinde GİST’ler yüksek mortalite oranları ile ilişkilidir. Ancak, erken tanı ve uygun tedavi ile sağkalım oranları önemli ölçüde iyileşmektedir.\nMide GİST’lerinin çoğunluğu, KIT (CD117) ya da PDGFRA (Platelet-Derived Growth Factor Receptor Alpha) genlerinde meydana gelen mutasyonlarla karakterizedir. Bu mutasyonlar, hücresel büyümeyi ve çoğalmayı etkileyen sinyal iletim yollarını aktif hale getirir."
+  },
+  {
+    "objectID": "statik/hastalar/index.html",
+    "href": "statik/hastalar/index.html",
+    "title": "hastalar",
+    "section": "",
+    "text": "hastalar Sayfası\nBu sayfa henüz içerikle doldurulmamıştır."
+  },
+  {
+    "objectID": "statik/hastalar/adenoca/index.html",
+    "href": "statik/hastalar/adenoca/index.html",
+    "title": "Mide kanseri (Adenokanser)",
+    "section": "",
+    "text": "Halk arasında mide kanseri olarak bilinen tip genellikle Mide tümörleri içinde “Adenokanser” alt tipidir."
+  },
+  {
+    "objectID": "statik/iletisim/index.html",
+    "href": "statik/iletisim/index.html",
+    "title": "İletisim",
+    "section": "",
+    "text": "İletişim için: e-mail: Email GSM:"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "blog/posts/index.html",
+    "href": "blog/posts/index.html",
+    "title": "posts",
+    "section": "",
+    "text": "posts Sayfası\nBu sayfa henüz içerikle doldurulmamıştır."
+  },
+  {
+    "objectID": "blog/index.html",
+    "href": "blog/index.html",
+    "title": "blog",
+    "section": "",
+    "text": "blog Sayfası\nBu sayfa henüz içerikle doldurulmamıştır."
+  },
+  {
+    "objectID": "statik/belgeler/index.html",
+    "href": "statik/belgeler/index.html",
+    "title": "belgeler",
+    "section": "",
+    "text": "belgeler Sayfası\nBu sayfa henüz içerikle doldurulmamıştır."
+  },
+  {
+    "objectID": "statik/hastalar/net/index.html",
+    "href": "statik/hastalar/net/index.html",
+    "title": "Mide NET (Nöroendokrin Tümör)",
+    "section": "",
+    "text": "Mide kaynaklı nöroendokrin tümörler (Gastric NET), midenin endokrin hücrelerinden köken alan, nadir görülmekle birlikte son yıllarda tanı oranı artan neoplazmlardır. Mide duvarında bulunan enteroendokrin hücrelerden kaynaklanırlar. Klinik davranışları, histolojik özellikleri ve tedavi seçenekleri bakımından heterojen bir tümör grubu oluştururlar.\nGastric NET’ler, gastrointestinal sistemdeki tüm nöroendokrin tümörlerin yaklaşık %20’sini ve mide tümörlerinin ise %2-3’ünü oluşturur. Genellikle 50 yaş üzerinde, kadın ve erkeklerde benzer sıklıkta görülür. Tanı olan olguların sayısı, görüntüleme ve endoskopi tekniklerinin yaygınlaşmasıyla artmıştır."
+  },
+  {
+    "objectID": "statik/hastalar/diger/index.html",
+    "href": "statik/hastalar/diger/index.html",
+    "title": "diger",
+    "section": "",
+    "text": "diger Sayfası\nBu sayfa henüz içerikle doldurulmamıştır.\nSayfa içeriği sadece bilgilendirme amaçlıdır, tanı ve tedavi için mutlaka doktorunuza başvurunuz."
+  },
+  {
+    "objectID": "statik/hastalar/lenfoma/index.html",
+    "href": "statik/hastalar/lenfoma/index.html",
+    "title": "Mide Lenfoması",
+    "section": "",
+    "text": "Mide lenfoması, mide duvarındaki lenfoid dokudan köken alan ve çoğunlukla non-Hodgkin tipte olan nadir bir malign tümör türüdür. Tüm gastrointestinal lenfomaların yarıdan fazlası mideye yerleşir. Hem hematolojinin hem de gastroenterolojinin ilgi alanına giren mide lenfomaları, çeşitli klinik, tanısal ve tedavi yaklaşımları gerektirir.\nMide lenfoması, mide kanserlerinin yaklaşık %5-10’unu oluşturur; buna karşın, tüm non-Hodgkin lenfomaların da %30’dan fazlasının ekstranodal formlarında ilk yerleşim yeridir. En sık 50 yaş üstünde ve hafif erkek predominansı ile görülür.\nEn yaygın alt tip, MALT (Mukoza İlişkili Lenfoid Doku) lenfomasıdır; Diffüz büyük B hücreli lenfoma (DLBCL) ise ikinci sıklıkta yer alır.\nMide lenfomasının patogenezinde en önemli faktörlerden biri Helicobacter pylori enfeksiyonudur. H. pylori, uzun süreli inflamasyon yaratarak mide mukozasında lenfoid doku hiperplazisine ve zamanla malign klonların gelişmesine zemin hazırlar.\nMALT lenfoma, sıklıkla indolandır ve H. pylori’den bağımsız hale gelebilecek kromozomal translokasyonlar sonucu ilerleyici agresyon gösterebilir.\nDLBCL gibi yüksek dereceli lenfomalar ise genellikle daha hızlı seyir gösterir."
+  },
+  {
+    "objectID": "statik/about/index.html",
+    "href": "statik/about/index.html",
+    "title": "Biz kimiz?",
+    "section": "",
+    "text": "Bu websayfası Prof. Dr. Ali Güner tarafından yürütülmektedir.\n\n\n\nKişisel websayfası: aliguner.com\nGüncel CV için: CV\n\nEğitim:\nTıp Doktoru: Istanbul Üniversitesi, İstanbul Tıp Fakültesi / 1996-2002 Genel Cerrahi Uzmanı: SB Göztepe EAH 2002‑2008\n\n\nYurtdışı eğitim:\nYonsei Üniversitesi, Robotik ve Minimal İnvaziv Cerrahi Merkezi / 2012\nYonsei Üniversitesi, Mide Kanseri Kliniği / 2013 ‑ 2014\nKyoto Üniversitesi, Üst GİS Cerrahi Kliniği / 2013\n\n\nÜyelikler:\nTürk Cerrahi Derneği (2008 - Günümüze) Uluslararası Mide Kanseri Derneği (2013 - Günümüze) FACS - Amerikan Cerrahlar Koleji (2018 - Günümüze) Avrupa Cerrahi Onkoloji Derneği (2018 - 2019) Türk Cerrahi Onkoloji Derneği (2019 - Günümüze) Türk Ulusal Endoskopik Laparoskopik Cerrahi Derneği (2013 - 2015) Türk Travma ve Acil Cerrahi Derneği (2008 - Günümüze) Türk Klinik Enteral ve Parenteral Beslenme Derneği (2016 - Günümüze) Karadeniz Cerrahi Derneği - Dernek başkanı, Kurucu üye (2018 - Günümüze) Ulusal Mide Kanseri Derneği - Kurucu üye (2024 - Günümüze) Tıp Bilişimi Derneği (2024 - Günümüze)"
+  },
+  {
+    "objectID": "statik/diger/gerd/index.html",
+    "href": "statik/diger/gerd/index.html",
+    "title": "gerd",
+    "section": "",
+    "text": "gerd Sayfası\nBu sayfa henüz içerikle doldurulmamıştır."
+  },
+  {
+    "objectID": "statik/diger/index.html",
+    "href": "statik/diger/index.html",
+    "title": "diger",
+    "section": "",
+    "text": "diger Sayfası\nBu sayfa henüz içerikle doldurulmamıştır."
+  },
+  {
+    "objectID": "statik/index.html",
+    "href": "statik/index.html",
+    "title": "statik",
+    "section": "",
+    "text": "statik Sayfası\nBu sayfa henüz içerikle doldurulmamıştır."
+  },
+  {
+    "objectID": "statik/doktorlar/index.html",
+    "href": "statik/doktorlar/index.html",
+    "title": "doktorlar",
+    "section": "",
+    "text": "doktorlar Sayfası\nBu sayfa henüz içerikle doldurulmamıştır."
+  },
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "My Blog",
+    "section": "",
+    "text": "Eşleşen öğe yok"
+  },
+  {
+    "objectID": "statik/hastalar/adenoca/index.html#epidemiyoloji",
+    "href": "statik/hastalar/adenoca/index.html#epidemiyoloji",
+    "title": "Mide kanseri (Adenokanser)",
+    "section": "Epidemiyoloji",
+    "text": "Epidemiyoloji\n(Stomach Cancer - 2022 GLOBOCAN Verileri) ### Dünya İnsidans: Dünya genelinde 2022 yılında mide kanseri, 968.784 yeni vaka ile 5. sırada yer almaktadır. Bu, mide kanserinin dünya çapında yaygın bir problem olduğunu göstermektedir.\nMortalite: Mide kanseri, 660.175 ölüm ile yine 5. sırada yer almaktadır.\n Kaynak: GLOBOCAN 2022\n\nTürkiye\n\n\n\n👨 Erkekler (Türkiye)\n Kaynak: GLOBOCAN 2022\nMide kanseri insidansı (yeni vaka oranı) 100.000 kişide 16.6, ölüm oranı (mortalite) 100.000 kişide 14.2 olarak belirlenmiştir. Mide kanseri, erkeklerde en sık görülen kanserler arasında 5. sırada yer almaktadır.\nMortalite açısından ise akciğer kanserinden (66.3) sonra en ölümcül ikinci kanser türüdür.\n\n\n👩 Kadınlar (Türkiye)\n Kaynak: GLOBOCAN 2022\nMide kanseri insidansı 100.000 kişide 7.7 olarak ölçülmüştür.\nMide kanserinden ölüm oranı (mortalite) 100.000 kişide 5.3 olarak kaydedilmiştir.\n\n\n\n\n\n\n\n\nÖnemli\n\n\n\nDikkat çekici bir nokta, erkeklerde mide kanseri için insidans ve mortalite oranları arasındaki farkın oldukça az olmasıdır (16.6 vs 14.2). Bu durum, hastalığın erkeklerde tanı konduğunda genellikle ileri evrede olduğunu ve sağkalım oranlarının düşük olduğunu göstermektedir.\n\n\n\nTümü (Türkiye)\n\nKaynak: GLOBOCAN 2022"
+  },
+  {
+    "objectID": "statik/hastalar/adenoca/index.html#epidemiyoloji-stomach-cancer---2022-globocan-verileri",
+    "href": "statik/hastalar/adenoca/index.html#epidemiyoloji-stomach-cancer---2022-globocan-verileri",
+    "title": "adenoca",
+    "section": "",
+    "text": "İnsidans: Dünya genelinde 2022 yılında mide kanseri, 968.784 yeni vaka ile 5. sırada yer almaktadır. Bu, mide kanserinin dünya çapında yaygın bir problem olduğunu göstermektedir.\nMortalite: Mide kanseri, 660.175 ölüm ile yine 5. sırada yer almaktadır. Bu da hastalığın neden olduğu ölüm oranlarının yüksek olduğunu ortaya koymaktadır.\n\n\n\n\n\n\n\n\n\nMide kanseri insidansı (yeni vaka oranı) 100.000 kişide 16.6, ölüm oranı (mortalite) 100.000 kişide 14.2 olarak belirlenmiştir. Mide kanseri, erkeklerde en sık görülen kanserler arasında 5. sırada yer almaktadır.\nMortalite açısından ise akciğer kanserinden (66.3) sonra en ölümcül ikinci kanser türüdür.\n\n\n\n\nMide kanseri insidansı 100.000 kişide 7.7 olarak ölçülmüştür.\nMide kanserinden ölüm oranı (mortalite) 100.000 kişide 5.3 olarak kaydedilmiştir.\n\n\n\n\n\n\n\n\nÖnemli\n\n\n\nDikkat çekici bir nokta, erkeklerde mide kanseri için insidans ve mortalite oranları arasındaki farkın oldukça az olmasıdır (16.6 vs 14.2). Bu durum, hastalığın erkeklerde tanı konduğunda genellikle ileri evrede olduğunu ve sağkalım oranlarının düşük olduğunu göstermektedir."
+  },
+  {
+    "objectID": "statik/hastalar/adenoca/index.html#mide-kanseri-risk-faktörleri",
+    "href": "statik/hastalar/adenoca/index.html#mide-kanseri-risk-faktörleri",
+    "title": "adenoca",
+    "section": "Mide Kanseri Risk Faktörleri",
+    "text": "Mide Kanseri Risk Faktörleri\n\n1. Enfeksiyöz Nedenler\n\nHelicobacter pylori Enfeksiyonu\nEpstein-Barr Virüsü\n\n\n\n2. Yaşam Tarzı ve Diyet\n\nSigara Kullanımı\nAşırı Tuzlu ve İşlenmiş Gıda Tüketimi\nDüşük Taze Meyve ve Sebze Tüketimi\nAlkol Kullanımı\nObezite\n\n\n\n3. Kişisel ve Genetik Faktörler\n\nAile Öyküsü\nİleri Yaş\nKan Grubu A\nCDH1 Gen Mutasyonu\nLynch Sendromu\nFAP (Ailevi Adenomatöz Polipozis)\n\n\n\n4. Tıbbi Durumlar\n\nKronik Atrofik Gastrit\nPernisiyöz Anemi\nİntestinal Metaplazi\nGeçirilmiş Mide Cerrahisi Öyküsü\nMide Polipleri (özellikle adenomatöz)"
+  },
+  {
+    "objectID": "statik/hastalar/adenoca/index.html#tani",
+    "href": "statik/hastalar/adenoca/index.html#tani",
+    "title": "adenoca",
+    "section": "TANI",
+    "text": "TANI\nMide kanserinin tanısı, çeşitli yöntemlerin bir arada ve doğru şekilde kullanılmasıyla konur:\n\n1. Üst GIS Endoskopi ve Biyopsi\n\nAltın standarttır. Lezyonların doğrudan görülmesini ve kesin tanı için çoklu biyopsi alınmasını sağlar.\nKromoskopi ile biyopsi: Şüpheli alanlarda kromoskopi kullanılarak tanı doğruluğu artırılır.\n\n\n\n2. Görüntüleme Yöntemleri\n\nBilgisayarlı Tomografi (BT): Evreleme ve metastaz değerlendirmesinde temel yöntemdir.\nManyetik Rezonans (MR): Özellikle lokal ve bölgesel yayılımın değerlendirilmesinde faydalıdır.\nPET/BT: Uzak metastaz araştırmasında yararlıdır; ancak rutin kullanımı her hasta için gerekli değildir, özellikle ileri hastalık veya şüpheli yayılım durumlarında tercih edilir. Mide kanserindeki duyarlılığı, diğer kanser türlerine oranla daha düşüktür.\n\n\n\n3. Laboratuvar Testleri\n\nTam kan sayımı: Hastalarda sıklıkla anemi bulunabilir.\nBiyokimya: Karaciğer ve böbrek fonksiyonları değerlendirilir; sistemik duruma ilişkin bilgi verir.\nTümör belirteçleri (CEA, CA 19-9, CA 72-4): Takip ve ileri evre hastalıkta destekleyici rol oynar, tek başına tanı değeri sınırlıdır.\n\nSonuç:\nMide kanseri tanısında endoskopi ve biyopsi esas olup, görüntüleme yöntemleri ve laboratuvar testleri hastalığın kapsamlı değerlendirilmesi ve tedavi planı oluşturulmasında tamamlayıcıdır. Tanıda multidisipliner yaklaşım büyük önem taşır.\nTabii, aşağıda mide kanserinde “evreleme” (staging) konusunda detaylı ve açıklayıcı bir metin bulabilirsin:"
+  },
+  {
+    "objectID": "statik/hastalar/adenoca/index.html#evreleme-nedir",
+    "href": "statik/hastalar/adenoca/index.html#evreleme-nedir",
+    "title": "adenoca",
+    "section": "Evreleme Nedir?",
+    "text": "Evreleme Nedir?\nEvreleme, kanserli bir hastada tümörün vücut içindeki yayılım derecesinin, yani hastalığın ne kadar ilerlediğinin belirlenmesi işlemidir. Mide kanserinde evreleme, tümörün mide duvarında ne kadar derinlikte olduğu (primer tümör), çevre lenf düğümlerine ya da uzak organlara (metastaz) yayılıp yayılmadığı gibi temel sorulara yanıt bulmayı amaçlar.\n\nNeden Evreleme Yapılır?\n\nTedavi Planı: Hastalığın evresi, uygulanacak tedavinin (cerrahi, kemoterapi, radyoterapi veya hedefe yönelik tedaviler) seçiminde belirleyicidir.\n\nPrognozun Belirlenmesi: Evre, hastalığın gidişatı ve sağkalım oranları hakkında en önemli bilgi kaynağıdır.\nTedavi Etkinliğinin Değerlendirilmesi: Tedavi sonrası süreçte hastalığın tekrarlama (nüks) veya ilerleme riskini ortaya koymak için gereklidir.\nKlinik Araştırmalara Uygunluk: Hastaların araştırma ve klinik çalışmalara uygunluğunu değerlendirmek için de kullanılır.\n\n\n\nNasıl Yapılır?\nMide kanserinde evreleme, çok yönlü bir yaklaşımla yapılır. Bu süreçte aşağıdaki unsurlar değerlendirilir:\n\nTNM Sistemi\nDünya genelinde en çok kullanılan sistem “TNM Sınıflaması”dır (UICC/AJCC).\n- T (Tümör): Tümörün mide duvarına ne kadar yayıldığı (T1-T4).\n- N (Nod): Yakın (bölgesel) lenf düğümlerinde tutulum (N0-N3).\n- M (Metastaz): Uzak organlara yayılım (M0: yok, M1: var).\nBu kriterlerle;\n- Evre 0’dan (en erken)\n- Evre IV’e (uzak metastaz varlığı) kadar sıralanır.\n\n\nEvreleme Yöntemleri\n\nGörüntüleme Yöntemleri\n\nBT (Bilgisayarlı Tomografi): Karın ve göğüs BT, yayılımın ve lenf nodlarının değerlendirilmesinde ana yöntemdir.\n\nMR (Manyetik Rezonans): Özellikle pelvik yayılım ya da karaciğer lezyonlarında ek bilgi sağlar.\nPET/BT: Uzak metastaz şüphesi varsa kullanılır. Ancak, düşük dereceli veya diffüz tip tümörlerde duyarlılığı sınırlı olabilir.\nEndoskopik Ultrason (EUS): Tümörün mide duvarındaki derinliği ve çevre lenf nodu tutulumunun değerlendirilmesinde çok değerlidir.\nEkografi (USG): Karaciğer metastazı yönünden tarama amacıyla yapılabilir.\n\nTanı Amaçlı Cerrahi\n\nTanısal Laparoskopi: Özellikle evre III hastalarda, BT/MR ile saptanamayan küçük karın içi metastazların (özellikle periton) tespiti için uygulanır. Cerrahi planlamadan önce önemli bilgi sağlar.\n\nEk Testler\n\nLaboratuvar Tetkikleri: Karaciğer fonksiyon testleri, tümör belirteçleri (örn. CEA, CA 19-9) destekleyici olur ancak tek başına tanı koydurmaz.\n\n\n\n\nSonuç\nEvreleme, mide kanseri yönetiminde merkezî bir öneme sahiptir. Hastalığın evresi; hastanın tedavi şemasını, iyileşme şansını ve takip stratejilerini belirler. Bu nedenle, evreleme multidisipliner ekip çalışmasıyla, hem klinik (görüntüleme, laboratuvar) hem de gerektiğinde cerrahi yöntemlerle titizlikle yapılmalıdır."
+  },
+  {
+    "objectID": "statik/hastalar/adenoca/index.html#tedavi",
+    "href": "statik/hastalar/adenoca/index.html#tedavi",
+    "title": "Mide kanseri (Adenokanser)",
+    "section": "Tedavi",
+    "text": "Tedavi\nMide kanseri tedavisi, hastalığın evresi, tümörün yerleşimi, hastanın performans durumu ve ek hastalıklar göz önüne alınarak planlanır. Seçilecek tedavi genellikle cerrahi, kemoterapi, radyoterapi ve hedefe yönelik/immünoterapi seçeneklerinin bir kombinasyonundan oluşur.\n\n1. Cerrahi Tedavi\n\nKüçük ve erken evre tümörlerde (Evre 0-I): Cerrahi (total ya da subtotal gastrektomi) en etkili tedavidir. Japonya ve Kore gibi Doğu Asya ülkelerinde “endoskopik mukozal rezeksiyon (EMR)”, erken mide kanseri (derinlik ve lenf nodu riski az olanlar) için sıkça tercih edilir.\nLenf nodu diseksiyonu: D2 disseksiyon (genişletilmiş lenf nodu çıkartılması) Japonya/Kore’de rutin (standart), Batı kılavuzlarında (NCCN, ESMO) ise, deneyimli merkezlerde yapılması önerilir.\n\n\n\n2. Perioperatif / Adjuvan / Neoadjuvan Kemoterapi\n\nNCCN (ABD) ve ESMO (Avrupa), tümör mide duvarının derinliğine inmişse (T2 veya üstü ve/veya lenf nodu pozitifliği varsa) perioperatif (ameliyat öncesi ve sonrası) kemoterapiyi standart olarak öneriyor.\nJapon ve Kore kılavuzları ise, özellikle D2 diseksiyon sonrası genellikle adjuvan (ameliyat sonrası) S-1 (bir oral fluoropirimidin) gibi ajanlarla kemoterapiyi tercih edebiliyor.\nBatıda perioperatif FLOT (5-FU, Lökavorin, Oxaliplatin, Docetaxel kombinasyonu) protokolü sıklıkla önerilir.\nDoğu Asyada S-1 veya CapeOX gibi ajanlar ön plandadır.\n\n\n\n3. Radyoterapi\n\nPostoperatif kemoradyoterapi Batı’da (özellikle D0/D1 lenfadenektomi yapılan hastalarda veya yetersiz cerrahi sınır varsa) daha çok kullanılır.\nDoğu Asya kılavuzlarında (Japonya, Kore) D2 disseksiyonun standart olması nedeniyle rutin radyoterapi daha az önerilir.\n\n\n\n4. Hedefe Yönelik Tedaviler ve İmmünoterapi\n\nHER2 pozitif tümörlerde: Trastuzumab (anti-HER2 antikor) kombinasyon kemoterapi ile birlikte kullanılabilir (tüm kılavuzlarda ortak öneri).\nPD-1/PD-L1 inhibitörleri (örn. pembrolizumab, nivolumab): Özellikle ilerlemiş evre/refrakter tümörlerde veya yüksek MSI/dMMR (mikrosatellit instabilite/yetersiz DNA tamir) durumu varsa çoğu kılavuz bu ajanları öneriyor.\nClaudin 18.2 hedefli ajanlar (örn. zolbetuximab) ve diğer moleküler hedefli tedaviler, son yıllarda klinik çalışmalarda umut vaat ediyor.\n\n\n\nGüncel Kılavuzlar Arasındaki Temel Farklılıklar\n\n\n\n\n\n\n\n\n\n\nNCCN (ABD)\nESMO (Avrupa)\nJapon/Kore Kılavuzları\n\n\n\n\nEndoskopik rezeksiyon\nSeçilmiş hastada\nSeçilmiş hastada\nDaha yaygın, erken evrede\n\n\nKemoterapi yaklaşımları\nDaha agresif, perioperatif FLOT\nPerioperatif FLOT önerisi baskın\nGenellikle adjuvan kemoterapi, S-1 ön planda\n\n\nLenf nodu diseksiyonu\nD1/D2, merkez deneyimine bağlı\nD2 önerilebilir\nD2 diseksiyon standart\n\n\nRadyoterapi\nYetersiz cerrahi yapılan olguda adjuvan\nSeçilmiş olguda\nNadiren, genelde gerek yok\n\n\nHedefe yönelik/immünoterapi\nHER2+, MSI/dMMR+, 3. basamakta PD-1 ajanları\nHER2+, PD-1 ajanları\nBenzer, güncel eklemeler mevcut\n\n\n\n\n\n\n\n\n\nNot\n\n\n\n\nTedavi kararları mutlaka multidisipliner bir ekip tarafından verilmelidir.\nTümörün biyolojisi (HER2, MSI, PD-L1) ve hastanın genel durumu standart yaklaşımları değiştirebilir.\nBatı ülkelerindeki yaklaşım, sıklıkla daha agresif kemoterapi ve radyoterapiyi içerirken, Doğu Asya cerrahide daha radikal yöntemleri ve farklı ajanları ön plana çıkarır.\nYeni moleküler hedefler ve immünoterapiler, klinik araştırmalarda ilgi odağıdır ve standarda girmeye başlamıştır."
+  },
+  {
+    "objectID": "statik/hastalar/adenoca/index.html#prognoz",
+    "href": "statik/hastalar/adenoca/index.html#prognoz",
+    "title": "Mide kanseri (Adenokanser)",
+    "section": "Prognoz",
+    "text": "Prognoz\nMide kanserinin prognozu, yani hastalığın gidişatı ve beklenen sağkalım süresi, başta tanı anındaki evre olmak üzere birçok faktöre bağlıdır. Son yıllarda tanı ve tedavideki gelişmelere rağmen, mide kanseri dünyada halen önemli bir ölüm nedenidir.\n\n1. Evrelere Göre Sağkalım Oranları\nMide kanseri için beş yıllık sağkalım oranları genellikle şu şekildedir:\n\n\n\nEvre\nABD/Avrupa (%)\nJaponya/Kore (%)\n\n\n\n\nEvre I\n70-90\n90-95\n\n\nEvre II\n45-60\n60-80\n\n\nEvre III\n20-35\n30-50\n\n\nEvre IV\n5-10\n10-20\n\n\n\n\nErken evrede tanı koyulan hastalarda sağkalım çok yüksektir.\n\nGelişmiş ülkelerde tarama programlarının yaygınlığına bağlı olarak Doğu Asya’da (özellikle Japonya ve Kore) hastalık genellikle daha erken evrede yakalanır ve sağkalım oranları Batı ülkelerine göre belirgin şekilde daha iyidir.\nTürkiye gibi ülkelerde erken tanı oranı Doğu Asya’ya göre düşük, Batı ülkelerine göreyse biraz daha iyileşme eğilimindedir.\n\n\n\n2. Prognozu Belirleyen Faktörler\nPrognoz üzerinde etkili olan başlıca faktörler şunlardır:\n\n1. Evre (EN KRİTİK FAKTÖR)\n\nPrimer tümörün mide duvarına invazyon derinliği (T aşaması)\nBölgesel lenf nodu tutulumu (N aşaması)\nUzak metastaz varlığı (M aşaması)\n\n\n\n2. Tümörün Lokasyonu\n\nProksimal (kardia/fundus) yerleşimli tümörlerin prognozu genellikle daha kötüdür.\nAntrum ve distal yerleşimli tümörlerde sağkalım daha yüksektir.\n\n\n\n3. Tümörün Histolojik Tipi\n\nİntestinal tip (Lauren sınıflaması): Prognozu genellikle daha iyidir.\nDiffüz tip (özellikle signet-ring hücreli): Daha agresiftir ve sağkalım düşük olabilir.\n\n\n\n4. Rezeksiyon Durumu\n\nR0 rezeksiyon (tümörün mikroskopik olarak tam çıkarılması) yapılan hastalarda prognoz anlamlı şekilde daha iyidir.\nPozitif cerrahi sınır (R1/R2 rezeksiyon), nüks riskini artırır ve sağkalımı olumsuz etkiler.\n\n\n\n5. Lenf Nodu Tutulumu ve Dizilimi\n\nTutulan lenf nodu sayısı ve oranı, sağkalım için çok önemlidir.\n\n\n\n6. Moleküler ve Biyolojik Faktörler\n\nHER2 pozitifliği: Tedaviye uygunluk sağlar ve bazı hastalarda sağkalımı uzatabilir.\nMSI/dMMR yüksekliği: Bu hastalar bağışıklık kontrol noktası inhibitörlerinden daha fazla fayda görebilir.\nDiğer genetik ve moleküler değişiklikler de araştırılmaktadır.\n\n\n\n7. Hastanın Genel Durumu ve Eşlik Eden Hastalıklar\n\nKötü performans durumu, ciddi ek hastalıklar (ör. diyabet, kalp yetmezliği) prognozu olumsuz etkiler.\n\n\n\n8. Uygulanan Tedavi\n\nCerrahi kalitesi (D1-D2 diseksiyon, R0 rezeksiyon)\nDoğru ve zamanında adjuvan/perioperatif tedavi uygulaması\n\n\n\n9. Ülke ve Sağlık Altyapısı\n\nErken tanı olanakları, tarama programları\nDeneyimli merkezlere erişim, multidisipliner ekip yaklaşımı\n\n\n\n\n3. Ülkeler ve Bölgeler Arasındaki Farklar\n\nJaponya ve Kore: Yoğun tarama programları sayesinde vakaların %50’den fazlası erken evrede tanınır. Bu nedenle sağkalım oranları Batı ülkelerine göre çok daha yüksektir.\nABD/Avrupa: Genellikle daha ileri evrede tanı konulur, sağkalım oranı düşüktür.\nGelişmekte olan ülkeler: Erken tanı oranı ve tedaviye erişim, prognozda belirleyici olmaktadır.\n\n\n\n4. Güncel Yaklaşım ve Takip\n\nGünümüzde tümörün biyobelirteçleri (HER2, MSI, PD-L1) de prognozda ve tedavi planı seçiminde gitgide daha çok önem kazanmaktadır.\nTakip ve erken nüks tespiti, sağkalım üzerinde pozitif etki yaratabilir.\n\n\n\n\n\n\n\n\nNot\n\n\n\nMide kanserinin prognozu çok sayıda faktöre bağlıdır. Erken teşhis ve modern tedaviyle sağkalım oranları belirgin şekilde artmaktadır. Doğu Asya ülkelerindeki başarılı tarama ve tedavi stratejileri, Batı’ya göre sağkalımı çok daha yükseltmektedir. Tüm hastalarda en iyi sonuç için multidisipliner yaklaşım ve bireyselleştirilmiş tedavi esastır.\n\n\nSayfa içeriği sadece bilgilendirme amaçlıdır, tanı ve tedavi için mutlaka doktorunuza başvurunuz."
+  },
+  {
+    "objectID": "statik/hastalar/adenoca/index.html#mide-kanseri-prognozu",
+    "href": "statik/hastalar/adenoca/index.html#mide-kanseri-prognozu",
+    "title": "adenoca",
+    "section": "Mide Kanseri Prognozu",
+    "text": "Mide Kanseri Prognozu\nMide kanserinin prognozu, yani hastalığın gidişatı ve beklenen sağkalım süresi, başta tanı anındaki evre olmak üzere birçok faktöre bağlıdır. Son yıllarda tanı ve tedavideki gelişmelere rağmen, mide kanseri dünyada halen önemli bir ölüm nedenidir.\n\n1. Evrelere Göre Sağkalım Oranları\nMide kanseri için beş yıllık sağkalım oranları genellikle şu şekildedir:\n\n\n\nEvre\nABD/Avrupa (%)\nJaponya/Kore (%)\n\n\n\n\nEvre I\n70-90\n90-95\n\n\nEvre II\n45-60\n60-80\n\n\nEvre III\n20-35\n30-50\n\n\nEvre IV\n5-10\n10-20\n\n\n\n\nErken evrede tanı koyulan hastalarda sağkalım çok yüksektir.\n\nGelişmiş ülkelerde tarama programlarının yaygınlığına bağlı olarak Doğu Asya’da (özellikle Japonya ve Kore) hastalık genellikle daha erken evrede yakalanır ve sağkalım oranları Batı ülkelerine göre belirgin şekilde daha iyidir.\nTürkiye gibi ülkelerde erken tanı oranı Doğu Asya’ya göre düşük, Batı ülkelerine göreyse biraz daha iyileşme eğilimindedir.\n\n\n\n2. Prognozu Belirleyen Faktörler\nPrognoz üzerinde etkili olan başlıca faktörler şunlardır:\n\n1. Evre (EN KRİTİK FAKTÖR)\n\nPrimer tümörün mide duvarına invazyon derinliği (T aşaması)\nBölgesel lenf nodu tutulumu (N aşaması)\nUzak metastaz varlığı (M aşaması)\n\n\n\n2. Tümörün Lokasyonu\n\nProksimal (kardia/fundus) yerleşimli tümörlerin prognozu genellikle daha kötüdür.\nAntrum ve distal yerleşimli tümörlerde sağkalım daha yüksektir.\n\n\n\n3. Tümörün Histolojik Tipi\n\nİntestinal tip (Lauren sınıflaması): Prognozu genellikle daha iyidir.\nDiffüz tip (özellikle signet-ring hücreli): Daha agresiftir ve sağkalım düşük olabilir.\n\n\n\n4. Reseksiyon Durumu\n\nR0 rezeksiyon (tümörün mikroskopik olarak tam çıkarılması) yapılan hastalarda prognoz anlamlı şekilde daha iyidir.\nPozitif cerrahi sınır (R1/R2 rezeksiyon), nüks riskini artırır ve sağkalımı olumsuz etkiler.\n\n\n\n5. Lenf Nodu Tutulumu ve Dizilimi\n\nTutulan lenf nodu sayısı ve oranı, sağkalım için çok önemlidir.\n\n\n\n6. Moleküler ve Biyolojik Faktörler\n\nHER2 pozitifliği: Tedaviye uygunluk sağlar ve bazı hastalarda sağkalımı uzatabilir.\nMSI/dMMR yüksekliği: Bu hastalar bağışıklık kontrol noktası inhibitörlerinden daha fazla fayda görebilir.\nDiğer genetik ve moleküler değişiklikler de araştırılmaktadır.\n\n\n\n7. Hastanın Genel Durumu ve Eşlik Eden Hastalıklar\n\nKötü performans durumu, ciddi ek hastalıklar (ör. diyabet, kalp yetmezliği) prognozu olumsuz etkiler.\n\n\n\n8. Uygulanan Tedavi\n\nCerrahi kalitesi (D1-D2 diseksiyon, R0 rezeksiyon)\nDoğru ve zamanında adjuvan/perioperatif tedavi uygulaması\n\n\n\n9. Ülke ve Sağlık Altyapısı\n\nErken tanı olanakları, tarama programları\nDeneyimli merkezlere erişim, multidisipliner ekip yaklaşımı\n\n\n\n\n3. Ülkelere ve Bölgeler Arasındaki Farklar\n\nJaponya ve Kore: Yoğun tarama programları sayesinde vakaların %50’den fazlası erken evrede tanınır. Bu nedenle sağkalım oranları Batı ülkelerine göre çok daha yüksektir.\nABD/Avrupa: Genellikle daha ileri evrede tanı konulur, sağkalım oranı düşüktür.\nGelişmekte olan ülkeler: Erken tanı oranı ve tedaviye erişim, prognozda belirleyici olmaktadır.\n\n\n\n4. Güncel Yaklaşım ve Takip\n\nGünümüzde tümörün biyobelirteçleri (HER2, MSI, PD-L1) de prognozda ve tedavi planı seçiminde gitgide daha çok önem kazanmaktadır.\nTakip ve erken nüks tespiti, sağkalım üzerinde pozitif etki yaratabilir.\n\n\nSonuç:\nMide kanserinin prognozu çok sayıda faktöre bağlıdır. Erken teşhis ve modern tedaviyle sağkalım oranları belirgin şekilde artmaktadır. Doğu Asya ülkelerindeki başarılı tarama ve tedavi stratejileri, Batı’ya göre sağkalımı çok daha yükseltmektedir. Tüm hastalarda en iyi sonuç için multidisipliner yaklaşım ve bireyselleştirilmiş tedavi esastır."
+  },
+  {
+    "objectID": "statik/hastalar/adenoca/index.html#risk-faktörleri",
+    "href": "statik/hastalar/adenoca/index.html#risk-faktörleri",
+    "title": "Mide kanseri (Adenokanser)",
+    "section": "Risk Faktörleri",
+    "text": "Risk Faktörleri\n\n1. Enfeksiyöz Nedenler\n\nHelicobacter pylori Enfeksiyonu\nEpstein-Barr Virüsü\n\n\n\n2. Yaşam Tarzı ve Diyet\n\nSigara Kullanımı\nAşırı Tuzlu ve İşlenmiş Gıda Tüketimi\nDüşük Taze Meyve ve Sebze Tüketimi\nAlkol Kullanımı\nObezite\n\n\n\n3. Kişisel ve Genetik Faktörler\n\nAile Öyküsü\nİleri Yaş\nKan Grubu A\nCDH1 Gen Mutasyonu\nLynch Sendromu\nFAP (Ailevi Adenomatöz Polipozis)\n\n\n\n4. Tıbbi Durumlar\n\nKronik Atrofik Gastrit\nPernisiyöz Anemi\nİntestinal Metaplazi\nGeçirilmiş Mide Cerrahisi Öyküsü\nMide Polipleri (özellikle adenomatöz)"
+  },
+  {
+    "objectID": "statik/hastalar/adenoca/index.html#tanı",
+    "href": "statik/hastalar/adenoca/index.html#tanı",
+    "title": "Mide kanseri (Adenokanser)",
+    "section": "Tanı",
+    "text": "Tanı\nMide kanserinin tanısı, çeşitli yöntemlerin bir arada ve doğru şekilde kullanılmasıyla konur:\n\n1. Üst GIS Endoskopi ve Biyopsi\n\nAltın standarttır. Lezyonların doğrudan görülmesini ve kesin tanı için çoklu biyopsi alınmasını sağlar.\nKromoskopi ile biyopsi: Şüpheli alanlarda kromoskopi kullanılarak tanı doğruluğu artırılır.\n\n\n\n2. Görüntüleme Yöntemleri\n\nBilgisayarlı Tomografi (BT): Evreleme ve metastaz değerlendirmesinde temel yöntemdir.\nManyetik Rezonans (MR): Özellikle lokal ve bölgesel yayılımın değerlendirilmesinde faydalıdır.\nPET/BT: Uzak metastaz araştırmasında yararlıdır; ancak rutin kullanımı her hasta için gerekli değildir, özellikle ileri hastalık veya şüpheli yayılım durumlarında tercih edilir. Mide kanserindeki duyarlılığı, diğer kanser türlerine oranla daha düşüktür.\n\n\n\n3. Laboratuvar Testleri\n\nTam kan sayımı: Hastalarda sıklıkla anemi bulunabilir.\nBiyokimya: Karaciğer ve böbrek fonksiyonları değerlendirilir; sistemik duruma ilişkin bilgi verir.\nTümör belirteçleri (CEA, CA 19-9, CA 72-4): Takip ve ileri evre hastalıkta destekleyici rol oynar, tek başına tanı değeri sınırlıdır.\n\n\n\n\n\n\n\nNot\n\n\n\nMide kanseri tanısında endoskopi ve biyopsi esas olup, görüntüleme yöntemleri ve laboratuvar testleri hastalığın kapsamlı değerlendirilmesi ve tedavi planı oluşturulmasında tamamlayıcıdır. Tanıda multidisipliner yaklaşım büyük önem taşır."
+  },
+  {
+    "objectID": "statik/hastalar/adenoca/index.html#evreleme",
+    "href": "statik/hastalar/adenoca/index.html#evreleme",
+    "title": "Mide kanseri (Adenokanser)",
+    "section": "Evreleme",
+    "text": "Evreleme\nEvreleme, kanserli bir hastada tümörün vücut içindeki yayılım derecesinin, yani hastalığın ne kadar ilerlediğinin belirlenmesi işlemidir. Mide kanserinde evreleme, tümörün mide duvarında ne kadar derinlikte olduğu (primer tümör), çevre lenf düğümlerine ya da uzak organlara (metastaz) yayılıp yayılmadığı gibi temel sorulara yanıt bulmayı amaçlar.\n\nNeden Evreleme Yapılır?\n\nTedavi Planı: Hastalığın evresi, uygulanacak tedavinin (cerrahi, kemoterapi, radyoterapi veya hedefe yönelik tedaviler) seçiminde belirleyicidir.\n\nPrognozun Belirlenmesi: Evre, hastalığın gidişatı ve sağkalım oranları hakkında en önemli bilgi kaynağıdır.\nTedavi Etkinliğinin Değerlendirilmesi: Tedavi sonrası süreçte hastalığın tekrarlama (nüks) veya ilerleme riskini ortaya koymak için gereklidir.\nKlinik Araştırmalara Uygunluk: Hastaların araştırma ve klinik çalışmalara uygunluğunu değerlendirmek için de kullanılır.\n\n\n\nNasıl Yapılır?\nMide kanserinde evreleme, çok yönlü bir yaklaşımla yapılır. Bu süreçte aşağıdaki unsurlar değerlendirilir:\n\nTNM Sistemi\nDünya genelinde en çok kullanılan sistem “TNM Sınıflaması”dır (UICC/AJCC).\n- T (Tümör): Tümörün mide duvarında ne kadar derine uzandığı (T1-T4).\n- N (Nod): Yakın (bölgesel) lenf düğümlerinde tutulum (N0-N3).\n- M (Metastaz): Uzak organlara yayılım (M0: yok, M1: var).\nBu kriterlerle;\n- Evre 0’dan (en erken)\n- Evre IV’e (uzak metastaz varlığı) kadar sıralanır.\n\n\nEvreleme Yöntemleri\n\nGörüntüleme Yöntemleri\n\nBT (Bilgisayarlı Tomografi): Karın ve göğüs BT, yayılımın ve lenf nodlarının değerlendirilmesinde ana yöntemdir.\n\nMR (Manyetik Rezonans): Özellikle pelvik yayılım ya da karaciğer lezyonlarında ek bilgi sağlar.\nPET/BT: Uzak metastaz şüphesi varsa kullanılır. Ancak, düşük dereceli veya diffüz tip tümörlerde duyarlılığı sınırlı olabilir.\nEndoskopik Ultrason (EUS): Tümörün mide duvarındaki derinliği ve çevre lenf nodu tutulumunun değerlendirilmesinde çok değerlidir.\nEkografi (USG): Karaciğer metastazı yönünden tarama amacıyla yapılabilir.\n\nTanı Amaçlı Cerrahi\n\nTanısal Laparoskopi: Özellikle evre III hastalarda, BT/MR ile saptanamayan küçük karın içi metastazların (özellikle periton) tespiti için uygulanır. Cerrahi planlamadan önce önemli bilgi sağlar.\n\nEk Testler\n\nLaboratuvar Tetkikleri: Karaciğer fonksiyon testleri, tümör belirteçleri (örn. CEA, CA 19-9) destekleyici olur ancak tek başına tanı koydurmaz.\n\n\n\n\n\n\n\n\nNot\n\n\n\nEvreleme, mide kanseri yönetiminde merkezî bir öneme sahiptir. Hastalığın evresi; hastanın tedavi şemasını, iyileşme şansını ve takip stratejilerini belirler. Bu nedenle, evreleme multidisipliner ekip çalışmasıyla, hem klinik (görüntüleme, laboratuvar) hem de gerektiğinde cerrahi yöntemlerle titizlikle yapılmalıdır."
+  },
+  {
+    "objectID": "statik/hastalar/gist/index.html#epidemiyoloji",
+    "href": "statik/hastalar/gist/index.html#epidemiyoloji",
+    "title": "Mide GİST (Gastrointestinal Stromal Tümor)",
+    "section": "Epidemiyoloji",
+    "text": "Epidemiyoloji\n\nİnsidans\nMide GİST, tüm kanser vakaları arasında yaklaşık %1 oranında görülmektedir. Tedavi edilmediğinde GİST’ler yüksek mortalite oranları ile ilişkilidir. Ancak, erken tanı ve uygun tedavi ile sağkalım oranları önemli ölçüde iyileşmektedir."
+  },
+  {
+    "objectID": "statik/hastalar/gist/index.html#patogenez",
+    "href": "statik/hastalar/gist/index.html#patogenez",
+    "title": "Mide GİST (Gastrointestinal Stromal Tümor)",
+    "section": "Patogenez",
+    "text": "Patogenez\nMide GİST’lerinin çoğunluğu, KIT (CD117) ya da PDGFRA (Platelet-Derived Growth Factor Receptor Alpha) genlerinde meydana gelen mutasyonlarla karakterizedir. Bu mutasyonlar, hücresel büyümeyi ve çoğalmayı etkileyen sinyal iletim yollarını aktif hale getirir.\n\nKIT Gen Mutasyonu: %95 oranında GİST’lerde bulunmaktadır ve tedavi için hedef alınan bir molekül olan Imatinib gibi ilaçlara duyarlılıkla ilişkilidir.\nPDGFRA Gen Mutasyonu: Genellikle daha az yaygındır ve GİST’lerin belirli bir alt tipinde (örneğin, D842V mutasyonu) görülür."
+  },
+  {
+    "objectID": "statik/hastalar/gist/index.html#klinik-belirtiler",
+    "href": "statik/hastalar/gist/index.html#klinik-belirtiler",
+    "title": "Mide GİST (Gastrointestinal Stromal Tümor)",
+    "section": "Klinik Belirtiler",
+    "text": "Klinik Belirtiler\nMide GİST’leri başlangıçta belirti vermeyebilir. Ancak, tümör büyüdüğünde aşağıdaki semptomlar ortaya çıkabilir:\n\nKarın Ağrısı: Genellikle lokalize olup, kramp tarzında olabilir.\nMide Bulantısı ve Kusma: Tümörün mekanik etkisiyle ortaya çıkan gastrointestinal disfonksiyondur.\nDoyma Hissi: Küçük miktarda yemek yendiğinde bile rahatsız edici bir doygunluk hissi.\nHızlı Kilo Kaybı: Sindirim sistemi problemleri ve tümör etkisiyle ortaya çıkar.\nAnemi Belirtileri: Yorgunluk, solukluk gibi sağlık sorunları.\nÜst GI Kanması: Kanlı kusma (hematemez) veya siyah dışkı (melena) ile kendini gösterebilir."
+  },
+  {
+    "objectID": "statik/hastalar/gist/index.html#tanı-yöntemleri",
+    "href": "statik/hastalar/gist/index.html#tanı-yöntemleri",
+    "title": "Mide GİST (Gastrointestinal Stromal Tümor)",
+    "section": "Tanı Yöntemleri",
+    "text": "Tanı Yöntemleri\n\n1. Endoskopi\nMide GİST sıklıkla endoskopik incelemede rastlantısal olarak saptanırlar. Submukozal tümör görüntüsü GİST i düşündürür. Kesin tanı için biopsi gerekir ancak mukozal kaynaklı olmadığından normal biopsi sıklıkla sonuçsuz kalır. Bu yüzden ya tanı için ileri biopsi yöntemlerine ihtiyaç duyulur, ya da cerrahi tedavi sonrası rezeksiyon materyalinden tanı koyulur.\n\n\n\nMide GİST - endoskopik görünüm\n\n\nKaynak: gastrolab\n\n\n2. Görüntüleme Yöntemleri\n\nBilgisayarlı Tomografi (BT): Tümörün boyutunu, yerini ve çevre dokularla ilişkisini belirlemede etkili bir yöntemdir.\nManyetik Rezonans Görüntüleme (MR): Özellikle yumuşak dokulardaki lezyonları değerlendirmede kullanılır.\nEndoskopik Ultrasonografi: İlk değerlendirme için hızlı bir yöntemdir ve tümörün boyutu ve köken aldığı dolku hakkında bilgi verir."
+  },
+  {
+    "objectID": "statik/hastalar/gist/index.html#cerrahi-tedavi",
+    "href": "statik/hastalar/gist/index.html#cerrahi-tedavi",
+    "title": "Mide GİST (Gastrointestinal Stromal Tümor)",
+    "section": "Cerrahi Tedavi",
+    "text": "Cerrahi Tedavi\nCerrahi, Mide GİST tedavisinin temel yöntemidir. Lenf nodu metastazı riski adenokanserler gibi olmadığından sadece tömör eksizyonu çoğunlukla yeterli bir yöndtemdir.\n\n1. Cerrahi Yöntem\n\nLokal Rezeksiyon: Küçük ve sınırlı tümörler için uygulanan yöntemdir. Tümörün, çevresindeki sağlıklı dokuyla birlikte çıkarılması amaçlanır.\nSubtotal Gastrektomi veya Total Gastrektomi: Büyük veya yaygın tümörlerde uygulanabilir. Bu yöntem, hastalığın boyutuna ve yerleşimine bağlı olarak seçilir.\nMinimal İnvaziv Cerrahi: Laparoskopik teknikler, uygun vakalarda tercih edilebilir. Bu yöntem, daha az ağrı ve daha kısa iyileşme süresi sağlar.\n\n\n\n2. Cerrahi Sonrası İzlem\n\nCerrahiden sonra, patolojik inceleme ile tümörün histolojik özellikleri belirlenir.\nYüksek riskli olgularda, adjuvan tedavi olarak Imatinib başlanabilir.\n\n\n\n3. Acil Durumlar\n\nÜst GI kanaması ile başvuran hastalarda acil cerrahi gerekebilir."
+  },
+  {
+    "objectID": "statik/hastalar/gist/index.html#prognoz",
+    "href": "statik/hastalar/gist/index.html#prognoz",
+    "title": "Mide GİST (Gastrointestinal Stromal Tümor)",
+    "section": "Prognoz",
+    "text": "Prognoz\nMide GİST’in prognozu çeşitli faktörlere bağlıdır: - Tümör Boyutu ve Evresi: Küçük ve erken evre GİST’lerde cerrahi başarı oranları yüksektir. - Mitotik Aktivite: Mitotik indeks yüksek olan tümörlerin nüks riski fazladır. - Mikroskopik Özellikler: Patolojik inceleme, tümörün özelliklerine göre prognozu belirler.\nYeterli tedavi almış hastalar, düzenli takiple yüksek yaşam kalitesi ve uzun hastalık süresi elde edebilirler.\n\n\n\n\n\n\nNot\n\n\n\nMide GİST, nadir fakat önemli bir tümördür. Genetik olarak belirlenen özellikleri, klinik semptomları ve tanı yöntemleri ile bilgilendirici bir yaklaşım önemli bir rol oynamaktadır. Erken teşhis ve uygun tedavi stratejileri ile başarılı bir yönetim mümkündür. Multidisipliner bir ekip, hastaların sağkalım oranlarını artırmak ve yaşam kalitelerini iyileştirmek için kritik bir öneme sahiptir.\n\n\nSayfa içeriği sadece bilgilendirme amaçlıdır, tanı ve tedavi için mutlaka doktorunuza başvurunuz."
+  },
+  {
+    "objectID": "statik/doktorlar/kilavuzlar/index.html#mide-kanseri-tedavi-kılavuzları",
+    "href": "statik/doktorlar/kilavuzlar/index.html#mide-kanseri-tedavi-kılavuzları",
+    "title": "kilavuzlar",
+    "section": "",
+    "text": "Japon Kılavuzu (6.edisyon)\nKore Kılavuzu (2024)\nESMO Kılavuzu (2022)\nNCCN Kılavuzu (2025.02)"
+  },
+  {
+    "objectID": "statik/hastalar/lenfoma/index.html#klinik-belirtiler",
+    "href": "statik/hastalar/lenfoma/index.html#klinik-belirtiler",
+    "title": "Mide Lenfoması",
+    "section": "Klinik Belirtiler",
+    "text": "Klinik Belirtiler\nMide lenfoması klinik olarak sinsi ilerler ve çoğu zaman nonspesifik bulgularla ortaya çıkar.\nBaşlıca semptomlar şunlardır:\n\nÜst abdominal ağrı, rahatsızlık veya dolgunluk hissi\n\nİştah kaybı ve istemsiz kilo kaybı\n\nBulantı, nadiren kusma\n\nGeç dönemde:\n\nAnemiye neden olan gizli kanama (yorgunluk, halsizlik, solukluk)\n\nÜst GIS kanaması (hematemez veya melena)\n\n\nBağırsak obstrüksiyonu ve perforasyon gibi acil tablolar nadirdir\n\nBazı olgularda endoskopi sırasında tesadüfen saptanabilir"
+  },
+  {
+    "objectID": "statik/hastalar/lenfoma/index.html#tanı-yöntemleri",
+    "href": "statik/hastalar/lenfoma/index.html#tanı-yöntemleri",
+    "title": "Mide Lenfoması",
+    "section": "Tanı Yöntemleri",
+    "text": "Tanı Yöntemleri\n\n1. Endoskopi\nMide lenfoması sıklıkla endoskopik inceleme sırasında saptanır. Mukozada ülser, nodül, polipoid ya da diffüz kalınlaşma şeklinde çeşitli görünümler sergiler. Spesifik bir endoskopik bulgu yoktur; histopatolojik tanı biyopsi ile kesinleşir.\n\n\n2. Biyopsi ve Histopatoloji\nDoğru tanı için çoklu ve derin biyopsiler alınmalıdır.\nHistopatolojik inceleme ile lenfomanın alt tipi (MALT, DLBCL vd.) immünohistokimyasal yöntemlerle belirlenir. Genetik analiz ve klonalite testleri de tanıda yardımcıdır.\n\n\n3. Görüntüleme Yöntemleri\nBT, MR, PET/BT, vd"
+  },
+  {
+    "objectID": "statik/hastalar/lenfoma/index.html#tedavi",
+    "href": "statik/hastalar/lenfoma/index.html#tedavi",
+    "title": "Mide Lenfoması",
+    "section": "Tedavi",
+    "text": "Tedavi\nMide lenfomasının tedavisi, alt tipine ve evresine göre değişir:\n\n1. H. pylori Eradikasyonu\n\nDüşük dereceli (MALT) lenfomalarda: Sadece H. pylori eradikasyon tedavisi (üçlü antibiyotik+proton pompası inhibitörü) ile yüksek oranda gerileme sağlanabilir.\n\n\n\n2. Kemoterapi ve İmmünoterapi\n\nYüksek dereceli DLBCL: Sistemik kemoterapi (ör: R-CHOP protokolü) ve gerekirse radyoterapi ile tedavi edilir.\nİleri evre ya da sistemik tutulumlu hastalarda kemoterapi ana tedavi yöntemidir.\n\n\n\n3. Radyoterapi\n\nLokalize ve kemoterapiye dirençli olgularda veya seçilmiş düşük dereceli hastalarda uygulanabilir.\n\n\n\n4. Cerrahi\n\nMide lenfomasının primer tedavisinde cerrahinin yeri sınırlıdır. Günümüzde cerrahi tedavi esas olarak komplikasyon (kanama, perforasyon, tıkanma) gelişmesi durumunda veya tanı amaçlı uygulanır. Diğer tedaviler başarısız ise nadiren rezeksiyon uygulanır."
+  },
+  {
+    "objectID": "statik/hastalar/lenfoma/index.html#prognoz",
+    "href": "statik/hastalar/lenfoma/index.html#prognoz",
+    "title": "Mide Lenfoması",
+    "section": "Prognoz",
+    "text": "Prognoz\nPrognoz tümörün alt tipine, evresine ve tedaviye yanıtına bağlıdır:\n\nMALT lenfoması: Erken evrede tanınır ve H. pylori tedavisine yanıt verenlerde, uzun dönem sağkalım oranları %90’ın üzerindedir.\nDLBCL ve ileri evre lenfomalarda: Sağkalım oranı düşer fakat uygun sistemik tedavi ile tamamen remisyonda uzun süreli yaşam mümkündür.\nNüks ve ilerleme riski: Evre, tümörün yanıtı ve genetik alt yapı ile ilişkili olarak değişir.\n\n\n\n\n\n\n\nNot\n\n\n\nMide lenfoması, çoğunlukla Helicobacter pylori’ye bağlı gelişen, endoskopik ve histolojik olarak saptanan ve modern tıpta büyük oranda kür şansı olan nadir bir mide kanseridir. Takip ve tedavi sürecinde multidisipliner yaklaşım önemlidir.\n\n\nSayfa içeriği sadece bilgilendirme amaçlıdır, tanı ve tedavi için mutlaka doktorunuza başvurunuz."
+  },
+  {
+    "objectID": "statik/hastalar/net/index.html#sınıflandırma-ve-patogenez",
+    "href": "statik/hastalar/net/index.html#sınıflandırma-ve-patogenez",
+    "title": "Mide NET (Nöroendokrin Tümör)",
+    "section": "Sınıflandırma ve Patogenez",
+    "text": "Sınıflandırma ve Patogenez\nGastric NET’ler klinik ve histopatolojik olarak 3 ana tipe ayrılır:\n\nTip I Gastric NET:\n\nEn sık görülen tiptir. Kronik atrofik gastrit ve pernisiyöz anemi zemininde gelişir.\n\nGastrin fazlalığına bağlı olarak ECL (Enterokromaffin-like) hücre hiperplazisiyle ilişkilidir ve sıklıkla multipl, çapı küçük ve iyi diferansiye lezyonlardır.\n\nLenf nodu ve uzak metastaz nadirdir.\n\nTip II Gastric NET:\n\nZollinger-Ellison sendromu ve multipl endokrin neoplazi (MEN) tip 1 ile ilişkilidir.\n\nYine gastrin fazlalığı ve ECL hücre hiperplazisi mevcuttur.\n\nMultipl, küçük ve genellikle benign seyirli lezyonlar görülür.\n\nTip III Gastric NET:\n\nSporadik, gastrin düzeylerinden bağımsız ve genelde tek, büyük çaplı tümörlerdir.\n\nAgresif seyirli, sık lenf nodu ve uzak organ metastazı yapabilen ve kötü prognoza sahip tümörlerdir.\n\n\nNadir olarak, kötü diferansiye büyük hücreli veya küçük hücreli nöroendokrin karsinomlar da mideyi tutabilir ve çok daha agresif davranış gösterir."
+  },
+  {
+    "objectID": "statik/hastalar/net/index.html#klinik-belirtiler",
+    "href": "statik/hastalar/net/index.html#klinik-belirtiler",
+    "title": "Mide NET (Nöroendokrin Tümör)",
+    "section": "Klinik Belirtiler",
+    "text": "Klinik Belirtiler\nÇoğu gastric NET olgusu asemptomatiktir ve endoskopik inceleme sırasında tesadüfen saptanır. Ancak ilerleyen veya büyük çaplı tümörlerde şu semptomlar görülebilir:\n\nEpigastrik ağrı veya rahatsızlık\nBulantı, nadiren kusma\nİştahta azalma ve kilo kaybı\nGizli ya da açık GİS kanaması (melena, hematemez)\nPernisiyöz anemi veya kronik atrofik gastrite bağlı bulgular (yorgunluk, halsizlik)\nFonksiyonel tümörlerde gastrin fazlalığına bağlı ishal, ülser"
+  },
+  {
+    "objectID": "statik/hastalar/net/index.html#tanı-yöntemleri",
+    "href": "statik/hastalar/net/index.html#tanı-yöntemleri",
+    "title": "Mide NET (Nöroendokrin Tümör)",
+    "section": "Tanı Yöntemleri",
+    "text": "Tanı Yöntemleri\n\n1. Endoskopi\nGastric NET’ler sıklıkla küçük, yuvarlak, düzgün sınırlı mukozal-submukozal lezyonlar olarak görülür. Sayı, büyüklük ve yerleşim özellikleri endoskopik görüntüde yol göstericidir.\nKesin tanı için biyopsi şarttır.\n\n\n2. Görüntüleme Yöntemleri\nBT, MR, PET/BT, vd\n\n\n3. Laboratuvar Tetkikleri\n\nSerum gastrin düzeyi: Tip I ve II NET’lerde yüksektir.\nKromogranin A ve 5-HIAA: Nöroendokrin aktivitenin göstergelerindendir.\nVitamin B12 ve antikorpus parietal hücre antikoru: Pernisiyöz anemi araştırmasında yararlıdır."
+  },
+  {
+    "objectID": "statik/hastalar/net/index.html#tedavi",
+    "href": "statik/hastalar/net/index.html#tedavi",
+    "title": "Mide NET (Nöroendokrin Tümör)",
+    "section": "Tedavi",
+    "text": "Tedavi\nTedavi, tümör tipi, boyutu, sayısı, derecesi ve yayılımına göre değişir:\n\nTip I ve II Gastric NET\n\nBoyutu 1 cm’nin altında ve yayılım göstermeyen tümörlerde endoskopik rezeksiyon (kapon, EMR veya ESD) yeterlidir.\nKapsamlı hastalıklarda veya nüks durumunda cerrahi (parsiyel/total gastrektomi) düşünülebilir.\nH2 reseptör antagonisti veya somatostatin analogları nadiren tedavide yer alır.\n\n\n\nTip III Gastric NET ve Kötü Diferansiye Nöroendokrin Karsinomlar\n\nErken dönemde cerrahi (parsiyel veya total gastrektomi, lenfadenektomi) altın standarttır.\nMetastatik hastalıkta sistemik kemoterapi veya somatostatin analogları, hedefe yönelik tedaviler uygulanabilir."
+  },
+  {
+    "objectID": "statik/hastalar/net/index.html#prognoz",
+    "href": "statik/hastalar/net/index.html#prognoz",
+    "title": "Mide NET (Nöroendokrin Tümör)",
+    "section": "Prognoz",
+    "text": "Prognoz\n\nTip I ve II gastric NET’lerin prognozu genellikle mükemmeldir; lokalize, düşük dereceli ve yavaş seyirli hastalık görülür, sağkalım oranları yüksektir.\nTip III ve kötü diferansiye olguların prognozu kötü olup, hızlı ilerleyebilir ve metastaz olasılığı yüksektir.\nDüzenli endoskopik takip, erken tanı ve tedavi şansını artırır.\n\n\n\n\n\n\n\nNot\n\n\n\nGastric NET’ler, tipine göre oldukça değişken biyolojik davranış sergilemekle birlikte, çoğu olgu uygun tedaviyle başarılı şekilde yönetilebilir. Tanı ve tedavide multidisipliner yaklaşım hayati önem taşır.\n\n\nSayfa içeriği sadece bilgilendirme amaçlıdır, tanı ve tedavi için mutlaka doktorunuza başvurunuz."
+  },
+  {
+    "objectID": "statik/iletisim/index.html#ikinci-görüş",
+    "href": "statik/iletisim/index.html#ikinci-görüş",
+    "title": "İletisim",
+    "section": "İkinci Görüş",
+    "text": "İkinci Görüş\nBazen birden fazla DOĞRU yol olabilir.\nTüm şehirlerden ve farklı ülkelerden tedavi olmak için gelen, en azından ikinci bir görüş almak için iletişime geçen hastalarımız var. Siz de kaderinize yön vermeden önce “ikinci bir görüş” için bizimle iletişime geçebilir, mide kanseri tanı-tedavi ekibine dilediğiniz iletişim kanalından ulaşabilirsiniz."
+  },
+  {
+    "objectID": "index.html#hangi-hastalıkları-tedavi-ediyoruz",
+    "href": "index.html#hangi-hastalıkları-tedavi-ediyoruz",
+    "title": "Mide Kanseri üzerine herşey",
+    "section": "",
+    "text": "Mide kanseri ve diğer mide tümörleri (GİST, Nöroendokrin tümör gibi)\n\nYemek borusu (Özofagus) tümörleri\nPankreas kanseri\n\nKolon, rektum, ince barsak kanserleri\n\nHIPEC/PIPAC (Sıcak kemoterapi)\n\n\n\n\n\nMide balonu/ Mide botoksu\nTüp mide (sleeve gastrektomi)\n\nGastrik bypass ve revizyon cerrahileri\n\n\n\n\n\nGastroözofageal reflü hastalığı\n\nMide fıtığı (hiatal herni)\n\nSafra kesesi taşları ve safra yolları hastalıkları\n\nKarın duvarı fıtıkları\n\nEndoskopik/laparoskopik cerrahi\nTüm gastrointestinal sistem hastalıkları"
+  },
+  {
+    "objectID": "statik/hastalar/rehber/index.html",
+    "href": "statik/hastalar/rehber/index.html",
+    "title": "Hasta rehberi",
+    "section": "",
+    "text": "Bu broşür KTÜ Genel Cerrahi ABD’de mide ameliyatı geçirecek hastaları bilgilendirmek, tedavi ve takip süreci içinde akıllarında oluşabilecek soruları çözümlemek amacıyla oluşturulmuştur.\n\nİlk görüşme\nÖncelikle geçmiş olsun.\nBugüne kadar yapılan tetkik ve tahlillerle tedavi edilmesi gereken bir mide rahatsızlığınız olduğu saptandı. Bu aşamadan sonra ilave tetkiklerle hastalığınız için nasıl bir tedavi planı uygulanacağı (ilaç tedavisi mi yoksa ameliyat tedavisi mi) belirlenmeye çalışılacak, ameliyat gerekecekse ameliyat riskinizin belirleneceği bazı tetkikler yapılacaktır.\nSizin için gereken tedavi planını belirleyen en önemli faktör hastalığınızın tahmini evresidir (tıp dilinde “klinik evre” olarak geçer). Genellikle dört ana evrede (ve bazı alt evreler) sınıflandırılan hastalığınız için bu evrenin tahmin edilmesi/belirlenmesi için bazı yardımcı görüntüleme yöntemleri ve testler kullanılır.\nBu tetkikler içinde sadece bilgisayarlı tomografi tüm hastalara uygulanırken, diğer yöntemlerin gerekliliği kişiye ve hastalığa bağlı olarak değişmektedir.\nBu amaçla şu tetkikler planlanacaktır;\n1. Bilgisayarlı tomografi: Midenizdeki problemin boyutlarını (evresini) değerlendirmek üzere karın bölgesine Bilgisayarlı Tomografi filmi istenecektir. Buna ilave olarak aynı işlemde akciğer tomografisi de çekilecek, akciğerinizde bir problem olup olmadığı değerlendirilecektir. Bu filmlerin sonucuna göre tedavinizin şekli belirlenecek, ya ilaç tedavisi ya da ameliyat tedavisi planlanacaktır.\n2. MR (Gereklilik halinde): Bilgisayarlı tomografinin yanıtlayamadığı bazı durumları netleştirmek için (karaciğer vs değerlendirmesi) gerekebilir.\n3. PET (Gereklilik halinde): Bilgisayarlı tomografinin yanıtlayamadığı bazı durumları netleştirmek için (uzak organ yayılımları vs) gerekebilir. Bazı hastalık tiplerinde PET rutin olarak kullanılmakla birlikte mide için durum biraz farklıdır ve rutin kullanımı dünyanın hiçbir yerinde/kılavuzunda önerilmemektedir.\n4. Tanısal laparoskopi (Gereklilik halinde): Görüntüleme yöntemleri periton dediğimiz karın zarında hastalık olup olmadığını çoğunlukla göstermeyebilir. Bunu değerlendirebilmek için en ideal yöntem tanısal laparoskopidir (Kapalı yöntemle karın içinin gözlenmesi). Bu yöntem ameliyathanede genel anestezi altında uygulanan bir yöntemdir. Siz anestezi ekibi tarafından uyutulduktan sonra karın duvarınızdan bir kamera ile girilerek karın zarınız incelenir, gereklilik halinde sıvı örneklemesi yapılır. İlave bir problem çıkmadığı takdirde aynı gün ya da ertesi gün taburcu edilirsiniz.\n5. Endoskopi (Gereklilik halinde): Her ne kadar daha önceki dönemde endoskopi yapılarak mideye bakılmış olsa da bunun ameliyat öncesinde ameliyat ekibi tarafından yapılması ameliyat planını netleştirmek için gerekebilmektedir. Eğer doktorunuz buna gerek duyarsa ameliyattan önceki bir dönemde size endoskopi işlemi yapacaktır. Bu işlem anestezi doktorunun kontrolünde, sedasyon denilen uyutma işleminin ardından yapılacaktır.\nBu tetkiklerden sonra tedavi planınız belirlenecektir. En sık kullanılan muhtemel tedavi yöntemleri: • Doğrudan cerrahi tedavi: Ameliyat hazırlığı yapılıp bir engel bulunmaması durumunda ameliyat uygulanır.\n• Önce ilaç sonra cerrahi tedavi: Öncelikle ilaç tedaviniz medikal onkoloji bölümü tarafından planlanacaktır. Bu tedavi yöntemi dünya standartlarında uygulanan tedavilerin aynısıdır. İlaç tedaviniz bittikten sonra hem tedavi etkinliğinin sağlanması, hem de ilaç ile oluşabilecek yan etkilerin düzelmesi için 3-4 haftalık bekleme sonrasında cerrahi tedaviniz planlanır. Bu süre içinde değişimi değerlendirmek için bilgisayarlı tomografi filmi yeniden çekilir ve endoskopi işleminiz tekrarlanabilir. Sonrasında ameliyat hazırlığı yapılıp bir engel bulunmaması durumunda ameliyat uygulanır.\n• İlaç tedavisi: Bu tedavi planı yapılmışsa tedaviniz medikal onkoloji bölümü tarafından planlanacaktır. İlerleyen dönemde hastalığınızdaki değişim yeniden incelenecek ve uygun görülmesi durumunda cerrahi tedavi planı değerlendirilecektir.\n\n\nAmeliyat öncesi hazırlık\nAnestezi hazırlığı: Tedavinizin herhangi bir döneminde ameliyat kararı alınmışsa öncelikli olarak ameliyat hazırlığı yapılacaktır. Ameliyat hazırlığı için kan testleri, kalp grafisi, akciğer filmi gibi tetkikler yapılıp ameliyat riski (narkoz riski) Anestezi bölümü tarafından belirlenecektir. Bu risk belirleme aşamasında kalp hastalığı, şeker, akciğer hastalığı, böbrek hastalığı gibi problemleriniz varsa ilgili bölümlere de muayene olmanız sağlanacaktır.\nBu değerlendirme devam ederken ameliyat süreci için ilave hazırlıklar da bulunmaktadır. Tüm bu hazırlıklar poliklinik şartlarında yapıldığı gibi hastanın genel durumunun elvermemesi, hastaneye ulaşımı zor bir yerde yaşıyor oluşu ya da hastanın tercihi gibi faktörlere göre gerekirse servise yatırılıp Genel Cerrahi servisinde görevli doktor, hemşire ve personel tarafından uygulanacaktır.\n1. Kansızlık durumu: Mide rahatsızlıklarında sıklıkla gizli/aşikar kan kaybı olduğu için kansızlığınız bulunabilir. Kan tahlillerinizdeki değerlere göre bu kolaylıkla anlaşılabilmektedir. Eğer kansızlığınız varsa ameliyat öncesi kan seviyenizi yükseltmek için size kan ya da demir ilacı verilebilir. Bu size tetkik aşamalarında bildirilecektir.\n2. Kan sulandırıcı ilaç: Kan sulandırıcı ilaçların bir kısmı (aspirin, coraspin gibi) ameliyat döneminde kanamaya neden oldukları için ameliyattan 5-7 gün önce kesilmelidir. Hazırlık aşamasında bu da size sorulacak, eğer ameliyata etki edecek bir kan sulandırıcı kullanıyorsunuz bu kesilecek (aksini gerektiren özel bir durum bulunmadığında), onun yerine size koldan yapılan iğneler verilecektir. Bunun dışındaki tansiyon, şeker ve benzeri ilaçlarınızı ameliyat gününe kadar kullanacaksınız.\n3. Beslenme durumu: Tetkik aşamasında beslenme durumunuz değerlendirilecektir. Gerek duyulursa bağışıklık sisteminiz için portakal suyu tadında bir toz ilaç size verilecektir. Ameliyattan önceki dönemde günde 1-2 tane bundan içmeniz yararınıza olacaktır. Eğer son zamanlarda ciddi kilo kaybı ya da yemek yiyememe şikâyetiniz olmuşsa ilave olarak bazı beslenme ilaçları verilecektir. Yemek yeme konusunda ciddi probleminiz varsa ameliyat öncesi dönemde hastaneye yatırılarak damardan beslenme tedavisi almanız gerekebilir.\n4. Aydınlatılmış onam formu (Tedavi için izin formu): Size öngörülen tedavinin yapılabilmesi için sizin ve yakınlarınızın tüm riskleri bilerek tedaviye izin vermesi gerekmektedir. Ameliyat sürecinde ve sonrasında gerek hastalığınızla gerek ameliyatınızla ilgili oluşabilecek riskler doktorunuz tarafından size anlatılmıştı. Hazırlık aşamasında size verilen bu onam formunda komplikasyon ihtimalleri daha detaylı anlatılmaktadır. Hastanın ve yakınlarının bu formu dikkatlice okumalarını, kafalarında oluşan soruları ameliyat öncesi dönemde mutlaka sormalarını, ameliyattan önce bu formun imzalanarak ameliyata ve diğer tedavilere izin verildiğinin belirtilmesi gerekmektedir.\n5. Gerekli malzemeler: Ameliyat hazırlık sürecinde kullanacağınız bazı medikal malzemeler sosyal güvenlik kurumu karşılamadığından hastanede bulunmayabilir. Bunların tarafınızdan temini gerekmektedir. Bunlar;\na. Emboli (pıhtı önleme) çorabı: Ameliyat günü ameliyata giderken giyeceğiniz emboli çorapları ameliyat sürecinde ve sonrasında bacaklarınızdaki toplardamarlarda pıhtı oluşma ihtimalini azalttığından tüm hastalara giydirilmektedir. Özel bir durum oluşmadıkça ameliyat sonrası dönemde 3-5 gün boyunca (bazen 1 ay kadar) da giyili kalması istenecektir.\nb. Karın korsesi: Ameliyat bölgesi karın bölgesinde olduğundan hem ameliyat sonrası fıtık oluşması riskinin azaltılması, hem de hastanın korkmadan daha rahat hareket edebilmesi için normal karın korsesini ameliyat sonrası dönemde, özellikle yürümek için kalktığınızda takmanız istenecektir. Bu korseyi taburcu olduğunuz güne kadar hatta daha sonraki 2-3 hafta içinde de takmanız önerilir.\nc. Solunum egzersiz cihazı (Triflo): Ameliyat sürecinde akciğer problemi yaşanması ihtimalini azaltmak amacıyla solunum egzersiz cihazı ile akciğer kapasitenizi artırmak amaçlanmaktadır. Bu cihaz ameliyat sonrası dönemde taburcu olduğunuz zamana kadar aralıklı olarak ve kısa sürelerle (saat başı 5 dakika ya da iki saatte bir 10 dakika gibi) kullanacağınız bir cihazdır. Önerimiz bu cihazın ameliyat öncesi dönemde de bir hafta süreyle kullanılmasıdır. Bu hem ameliyat öncesi dönemde akciğer kapasitenizi artıracak, hem de ameliyat sonrası süreçte hastanın cihazı kullanmasını kolaylaştıracaktır.\nBu hazırlıklar bitip ameliyat için karar verildiğinde muhtemel ameliyat tarihi size bildirilecektir. Bu bazen sizin durumunuz ya da hastane ameliyathane programının durumuna göre 1-2 gün ile 1-2 hafta arasında değişmektedir. Ameliyat tarihine kadar olan süreyi isterseniz hastanede geçirebileceğiniz gibi özel bir durumunuz yoksa evde de geçirebilirsiniz. Eğer daha öncesinde yatışınız yapılmamışsa normal uygulamamız ameliyat tarihinden iki gün önce yatış işlemlerinin yapılması şeklindedir. Yatış için geleceğiniz gün aksi belirtilmedikçe yemek yemenizde bir sakınca yoktur ve normal bir gün yaşamanız önerilir. Yatış günü ve ertesi gün son kontroller ve hazırlıklar sağlanacak, sizin hastane ortamına alışmanız için zaman kazanılacaktır. Ameliyat günü gecesine kadar (gece 12.00) yeme içme konusunda bir kısıtlama uygulanmamaktadır ancak son gün (ameliyattan bir gün önce) sizi rahatsız edici yemeklerden kaçınmanız önerilir.\nYatışınız yapıldıktan sonra tamamlanması gereken bir diğer hazırlık kan hazırlığıdır. Ameliyatta ya da ameliyat sonrasında hastalara kan vermek gerekebilmektedir. Acil olarak kan temini zor olacağından bunun önceden hazırlanması gerekmektedir. Hastanın durumuna göre değişmekle birlikte genellikle 3 ünite kanın hazır bulunması yeterli olmaktadır. Bunun için gerekli prosedürler servis ekibi tarafından size bildirilecektir.\nSon hazırlık sürecindeki diğer tedavi gereklilikleri servis ekibi tarafından tamamlanacaktır.\n\n\nAmeliyat süreci\nAmeliyat günü, ameliyat programına göre uygun bir saatte ameliyathaneye götürüleceksiniz. Gitmeden önce gerekli ilaçlar size uygulanacak, emboli (pıhtı) çorabını giymeniz istenecektir. Ameliyathaneye girer girmez ameliyatın başlamadığını bilmelisiniz. Sizden önce ameliyat edilen hastanın odadan çıkarılması, oda temizliği ve sizin anestezi öncesi dönemde serum/ilaçlar ile anesteziye hazırlanmanız vakit alan bir işlemdir. Ameliyathaneye girdikten sonra ameliyatın başlamasına kadar olan süre bir saati bulabilmektedir.\nAmeliyat süresi, size uygulanacak olan tekniğe göre değişiklik göstermektedir. Bu süre 1.5 saat ile 5 saat arasında değişebilmektedir. Ameliyatınız bittiğinde uyanma odasına alınacaksınız. Özel bir sağlık durumu olmadığı müddetçe yoğun bakım takibi rutin olarak uygulanmamaktadır. Anestezi ilaçlarının etkisinin azalması ve servisteki yatağınıza gönderilmeden önce yaklaşık bir saatlik bir süre uyanma odasında bekletileceksiniz. Ameliyat sonrasındaki bilgilendirme ameliyatınıza giren doktor/ekip tarafından aynı gün uygun bir saatte serviste/bekleme odasında yapılacaktır.\nAmeliyat sonrası takip ve tedavi süreci yoğun ve uzun bir bakım sürecidir. Bu konudaki tüm aşamalar servis doktorları, hemşireleri ve görevli personellerce yapılacaktır. Ameliyat sonrası dönemde burnunuzda nazogastrik denilen bir sonda, idrar sondası ve ameliyat bölgesine koyulan drenler olacaktır. Bu sonda ve drenler ameliyatı takip eden günler içinde gerekliliği kalmadığında çıkarılacaktır. Mide bölgesindeki dikişlerin iyileşmesini beklemek için ilk günler herhangi bir sıvı ya da gıda alımına izin verilmeyecek, serum ile beslenmeniz sağlanacaktır. Ameliyatınızın tekniğine göre 2-5 gün içinde su, meyve suyu gibi sıvı gıdalar, sonrasında ise çorba, yoğurt gibi gıdalar verilecektir. Bu sıvıların başlanmasından önce mavi boyalı bir su ile kontrol yapılacak, bir problem olmaması durumunda sıvı alımınıza izin verilecektir. Bu süre hastadan hastaya değişebilmektedir.\nAmeliyat sonrasındaki dönemde sizden beklenen mümkün olduğunca erken dönemde ayağa kalkmanız (mümkünse aynı gün akşamı, ya da en geç ameliyattan bir gün sonra), kısa yürüyüşler yapmanız, zamanınızı mümkün oldukça yatak dışında geçirmenizdir. Ayrıca solunum egzersiz cihazını çalışmanız istenecektir.\n\n\nTaburculuk sonrası\nDrenleriniz çıkarıldığında, önemli bir probleminiz bulunmadığında, sıvı ve yumuşak gıdalar yiyebildiğinizde taburcu olmanızda bir engel kalmayacaktır. Taburculuk genellikle ameliyat sonrası 5-10 gün içinde olmaktadır. Bir komplikasyon gelişmesi, ek ilaç tedavilerinizin olması, yaşadığınız yerin uzakta olması gibi nedenlerle yatış süresi daha uzun olabilmektedir. Taburcu olurken bir süre daha kullanmanız için size ilaçlar reçete edilecektir. Bunları kontrole geldiğiniz tarihe kadar kullanın, ilk kontrol görüşmesinden sonra bunların birçoğunun kullanımına gerek kalmayacak, sadece daha önceden kullandığınız kendi ilaçlarınıza devam etmeniz önerilecektir.\nAmeliyattan sonraki dönemde ameliyat bölgenize pansuman gerekmemektedir ve banyo yapmanızda sakınca yoktur. Ameliyat bölgesinin ıslanması bir problem yaratmamaktadır. Sadece dren yerlerinin bir süreliğine kuru ve kapalı tutulması gerekmektedir. Taburcu olduğunuzda sıvı ve yumuşak gıdaları yiyebiliyor olacaksınızdır. Önünüzdeki bir hafta boyunca da benzer şekilde yemeye devam etmeniz, çok katı ve büyük miktardaki yemekleri yemekten kaçınmanız önerilir. İlk kontrolünüzde bundan sonrası için nasıl beslenmeniz gerektiği size anlatılacaktır. Normal hayatınızdaki beslenme şekli ile devam edebileceğiniz gibi bizim önerimiz az az ama sık sık yemek yemeniz olacaktır. Günde 3 ana öğün ve 3 ara öğün ile toplam 6 öğün yemek yemeniz gerekli besin alımını size sağlayacaktır. Besin alımınızın kalitesi takip sürecindeki kilo değişimlerinize göre takip edilecektir. Beslenme durumunuza göre gerektiğinde size beslenme ilaçları raporu çıkarılacak ve beslenme desteği verilecektir.\nAmeliyat olduğunuz günden sonraki 15.günde dikişleriniz alınacaktır. Ameliyatta patolojiye tahlil gönderilmişse bunun sonucu da yaklaşık 15.gün (Patoloji bölümünün yoğunluğuna bağlı olarak uzayabilmektedir) çıkmaktadır. Bu sebeple ilk kontrol tarihiniz, ameliyat gününden yaklaşık 15 gün sonrasıdır (Tahmini taburcu tarihinden 5-10 gün sonrası). Bu ilk kontrol görüşmesinde kan tahlilleriniz tekrarlanacak, gerekli öneriler ve ilave tedaviler size anlatılacaktır."
+  }
+]

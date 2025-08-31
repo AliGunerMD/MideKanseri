@@ -1,0 +1,10 @@
+---
+title: "kilavuzlar"
+---
+
+## Mide Kanseri Tedavi Kılavuzları
+- [Japon Kılavuzu (6.edisyon)](/assets/pdfs/Japanese_6.pdf){target="_blank"}
+- [Kore Kılavuzu (2024)](/assets/pdfs/Korean_2024.pdf){target="_blank"}
+- [ESMO Kılavuzu (2022)](/assets/pdfs/ESMO_2022.pdf){target="_blank"}
+- [NCCN Kılavuzu (2025.02)](/assets/pdfs/NCCN_2025.02.pdf){target="_blank"}
+

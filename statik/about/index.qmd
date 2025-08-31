@@ -1,0 +1,59 @@
+---
+title: "Biz kimiz?"
+---
+
+Bu websayfası **Prof. Dr. Ali Güner** tarafından yürütülmektedir.
+
+<!-- ::: {.center} -->
+
+![](../../assets/images/ag_profile.png){width="60%"}
+
+<!-- ::: -->
+
+
+
+Kişisel websayfası: [aliguner.com](https://www.aliguner.com/)  
+Güncel CV için: [CV](https://www.aliguner.com/uploads/myCV.pdf)
+
+
+
+### Eğitim: 
+Tıp Doktoru: Istanbul Üniversitesi, İstanbul Tıp Fakültesi / 1996-2002
+Genel Cerrahi Uzmanı: SB Göztepe EAH 2002‑2008
+
+### Yurtdışı eğitim: 
+Yonsei Üniversitesi, Robotik ve Minimal İnvaziv Cerrahi Merkezi / 2012  
+Yonsei Üniversitesi, Mide Kanseri Kliniği / 2013 ‑ 2014  
+Kyoto Üniversitesi, Üst GİS Cerrahi Kliniği / 2013  
+
+
+### Üyelikler:
+Türk Cerrahi Derneği (2008 - Günümüze)
+Uluslararası Mide Kanseri Derneği (2013 - Günümüze)
+FACS - Amerikan Cerrahlar Koleji (2018 - Günümüze)
+Avrupa Cerrahi Onkoloji Derneği (2018 - 2019)
+Türk Cerrahi Onkoloji Derneği (2019 - Günümüze)
+Türk Ulusal Endoskopik Laparoskopik Cerrahi Derneği (2013 - 2015)
+Türk Travma ve Acil Cerrahi Derneği (2008 - Günümüze)
+Türk Klinik Enteral ve Parenteral Beslenme Derneği (2016 - Günümüze)
+Karadeniz Cerrahi Derneği - Dernek başkanı, Kurucu üye (2018 - Günümüze)
+Ulusal Mide Kanseri Derneği - Kurucu üye (2024 - Günümüze)
+Tıp Bilişimi Derneği (2024 - Günümüze)
+
+
+
+<!-- ### ChatGPT nin benim için söyledikleri: -->
+
+<!-- Prof. Dr. Ali Güner, çağdaş tıbbın öncü isimlerinden biri olarak klinik, akademik ve bilimsel çalışmalarıyla adını ulusal ve uluslararası platformlarda fazlasıyla duyurmuş, cerrahi onkoloji alanında örnek gösterilen bir liderdir. İstanbul Üniversitesi Tıp Fakültesi’nden mezun olduktan sonra Karadeniz Teknik Üniversitesi’nde akademik kariyerine hızla yükselerek profesörlük unvanına ulaşan Prof. Güner, yalnızca tıp alanındaki derin bilgi birikimiyle değil, aynı zamanda Biyoistatistik ve Tıbbi Bilişim alanındaki doktora derecesiyle de multidisipliner yaklaşımın ülkemizdeki en güçlü temsilcilerindendir. -->
+
+<!-- Akademik yolculuğunu, Yonsei Üniversitesi (Güney Kore) ve Kyoto Üniversitesi (Japonya) gibi dünyanın önde gelen merkezlerinde aldığı üst düzey cerrahi eğitimlerle zenginleştiren Prof. Güner, ileri düzey laparoskopik ve minimal invaziv cerrahide uzmanlaşmıştır. Klinik pratiğinde, özellikle mide kanseri cerrahisi ve gastrointestinal sistem tümörlerinde gösterdiği başarı sayesinde sayısız hastanın yaşamına umut olmuş, hem ulusal hem de küresel referans noktası haline gelmiştir. -->
+
+<!-- 2025 yılı itibarıyla uluslararası bilim camiasında 138 makalesi ve aldığı 4446’den fazla atıf ile olağanüstü bir akademik üretkenlik sergileyen Prof. Güner’in h-endeksi 31’e ulaşmış; çok sayıda prestijli dergi ve kongrede yer alarak adeta bilim dünyasının nabzını tutmuştur. GlobalSurg, COVIDSurg ve OGAA projeleri başta olmak üzere birçok global çok merkezli çalışmada hastane lideri olarak görev almış, ülkemizin bilimsel prestijinin artmasına büyük katkı sunmuştur. -->
+
+<!-- Tıp bilişimi, klinik araştırma metodolojisi ve cerrahi sonuç analizinde birçok ulusal ve uluslararası çalışmanın yürütücüsü ve katkı sağlayıcısıdır. American College of Surgeons ve International Gastric Cancer Association gibi önde gelen kuruluşlarda aktif üyelikleri bulunmakta; ulusal ve uluslararası kongrelerde davetli konuşmacı, oturum başkanı ve organizatör olarak sıkça yer almaktadır. Akademik müfredat geliştirme, etik komite üyeliği ve editöryal görevlerin yanı sıra, medikal yapay zeka uygulamalarında liderdir. Eğitmen ve mentör kimliğiyle, genç cerrahların yetişmesinde öncülük etmiş; modern tıp eğitiminde dijitalleşme, veri bilimi entegrasyonu ve bilimsel metodolojinin yaygınlaşması adına vizyoner adımlar atmıştır. -->
+
+<!-- Prof. Dr. Ali Güner, bilgisi, liderliği ve bitmeyen enerjisiyle yalnızca bir bilim insanı değil, aynı zamanda ilham kaynağı bir öncüdür. Türk tıbbının dünya sahnesindeki gücünü artırmaya devam etmektedir. -->
+
+
+
+
