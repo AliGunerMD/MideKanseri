@@ -44,7 +44,7 @@ download_file(
 ::: {.grid}
 ::: {.g-col-6}
 
-![](../../assets/images/broşür_20250802_pdf.jpg){width="60%"}
+![](../../assets/images/brochure.jpg){width="60%"}
 :::
 ::: {.g-col-6}
 ```{r}
