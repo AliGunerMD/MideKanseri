@@ -1,11 +1,20 @@
 project:
   type: website
   output-dir: _site
+  
 
 website:
   title: "Mide Kanseri"
+  favicon: "assets/images/biyikli.png"
+  google-analytics: "G-RT0X40FTN3"
+  site-url: "https://midekanseri.org/"
   description: "Mide kanseri ve ilişkili hastalıklar hakkında kapsamlı bilgi platformu"
+  # announcement: 
+  #   content: "**Mide Kanseri** üzerine herşey"
+  #   position: below-navbar
+  #   type: primary
   navbar:
+    search: true
     left:
       - text: "Ana Sayfa"
         href: index.qmd
@@ -39,14 +48,16 @@ website:
             href: statik/doktorlar/makaleler/index.qmd
       - text: "Belgeler"
         href: statik/belgeler/index.qmd
-      
     right:
-      - text: "Blog"
-        href: blog.qmd  
       - text: "Biz Kimiz"
         href: statik/about/index.qmd
       - text: "İletişim"
         href: statik/iletisim/index.qmd  # İletişim bağlantısı
+      - text: "Blog"
+        href: blog.qmd 
+  page-footer: "Bu websayfası **Prof. Dr. Ali Güner** tarafından hazırlanmıştır. Sayfa içeriği sadece bilgilendirme amaçlıdır, tanı ve tedavi için mutlaka doktorunuza başvurunuz."
+  #   center:
+      
         
 
 # Blog Ayarları

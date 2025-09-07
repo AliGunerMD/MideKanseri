@@ -14,7 +14,7 @@ Bu internet sayfası, ömrünü **mide kanseri**nin tanı ve tedavisi için geç
 
 
 ### 🔹 Gastrointestinal Kanserler
-- Mide kanseri ve diğer mide tümörleri (GİST, Nöroendokrin tümör gibi)  
+- Mide kanseri (Adenokanser) ve diğer mide tümörleri (GİST, Nöroendokrin tümör, Mide lenfoması gibi)  
 - Yemek borusu (Özofagus) tümörleri
 - Pankreas kanseri  
 - Kolon, rektum, ince barsak kanserleri  
@@ -49,14 +49,16 @@ Bu internet sayfası, ömrünü **mide kanseri**nin tanı ve tedavisi için geç
 ### ☎️ İletişim
 Poliklinik sekreterliği: [0 (462) 377 5485](tel:04623775485)  
 Poliklinik sekreterliği: [0 (462) 377 5612](tel:04623775612)    
-email: [draliguner@yahoo.com](mailto:draliguner@gmail.com)  
+email: [ktumide@gmail.com](mailto:ktumide@gmail.com)  
 :::
 ::: {.g-col-6}
 ### 📪 Adres
-Karadeniz Teknik Üniversitesi  
-Tıp Fakültesi Farabi Hastanesi  
-Genel Cerrahi Polikliniği  
+Karadeniz Teknik Üniversitesi Tıp Fakültesi   
+Farabi Hastanesi Genel Cerrahi Polikliniği   
+Öğretim Üyesi Muayene Odası (No: 4)    
 Trabzon/Türkiye  
+
+![](assets/images/pol_1.jpeg){width="70%"}
 
 
 :::
@@ -68,5 +70,5 @@ Trabzon/Türkiye
 
 
 
-**Bu internet sitesi ve sayfa içeriği sadece bilgilendirme amaçlıdır, tanı ve tedavi için mutlaka doktorunuza başvurunuz.**
+
 

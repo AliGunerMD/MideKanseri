@@ -163,16 +163,16 @@ ul.task-list li input[type="checkbox"] {
 </ul>
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
-    <a class="nav-link" href="../../blog.html"> 
-<span class="menu-text">Blog</span></a>
-  </li>  
-  <li class="nav-item">
     <a class="nav-link" href="../../statik/about/index.html"> 
 <span class="menu-text">Biz Kimiz</span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link active" href="../../statik/iletisim/index.html" aria-current="page"> 
 <span class="menu-text">İletişim</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../../blog.html"> 
+<span class="menu-text">Blog</span></a>
   </li>  
 </ul>
           </div> <!-- /navcollapse -->
@@ -209,9 +209,16 @@ ul.task-list li input[type="checkbox"] {
 
 
 
-<p>İletişim için: e-mail: <a href="mailto:draliguner@gmail.com">Email</a> GSM:</p>
-<section id="ikinci-görüş" class="level2">
-<h2 class="anchored" data-anchor-id="ikinci-görüş">İkinci Görüş</h2>
+<section id="iletişim-için" class="level1">
+<h1>İletişim için:</h1>
+<p><em>Genel Cerrahi Poliklinik Sekreterliği:</em> 0462 - 3775485, 0462 - 3775612<br>
+<em>Genel Cerrahi Endoskopi Ünitesi:</em> 0462 - 3775692<br>
+<em>Genel Cerrahi Servisi Doktor Odası:</em> 0462 - 3775559, 0462 - 3775926<br>
+<em>Genel Cerrahi Servisi Hemşire Bankosu:</em> 0462 - 3775241, 0462 - 3775242</p>
+<p>e-posta: ktumide@gmail.com</p>
+</section>
+<section id="ikinci-görüş" class="level1">
+<h1>İkinci Görüş</h1>
 <p><strong>Bazen birden fazla DOĞRU yol olabilir.</strong></p>
 <p>Tüm şehirlerden ve farklı ülkelerden tedavi olmak için gelen, en azından ikinci bir görüş almak için iletişime geçen hastalarımız var. Siz de kaderinize yön vermeden önce “ikinci bir görüş” için bizimle iletişime geçebilir, mide kanseri tanı-tedavi ekibine dilediğiniz iletişim kanalından ulaşabilirsiniz.</p>
 <p><img src="../../assets/images/consultation.jpg" class="img-fluid"></p>
@@ -292,7 +299,7 @@ ul.task-list li input[type="checkbox"] {
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp('/' + window.location.host + '/');
+        var filterRegex = new RegExp("https:\/\/midekanseri\.org\/");
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }
@@ -620,6 +627,19 @@ ul.task-list li input[type="checkbox"] {
   });
   </script>
 </div> <!-- /content -->
+<footer class="footer">
+  <div class="nav-footer">
+    <div class="nav-footer-left">
+      &nbsp;
+    </div>   
+    <div class="nav-footer-center">
+<p>Bu websayfası <strong>Prof.&nbsp;Dr.&nbsp;Ali Güner</strong> tarafından hazırlanmıştır. Sayfa içeriği sadece bilgilendirme amaçlıdır, tanı ve tedavi için mutlaka doktorunuza başvurunuz.</p>
+</div>
+    <div class="nav-footer-right">
+      &nbsp;
+    </div>
+  </div>
+</footer>
 
 
 
