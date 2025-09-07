@@ -79,5 +79,6 @@ format:
     smooth-scroll: true
     lang: tr  # Sayfa dili
 
-
+execute:
+  freeze: auto
 
