@@ -1,0 +1,79 @@
+---
+title: "Mide Lenfoması"
+---
+
+
+Mide lenfoması, mide duvarındaki lenfoid dokudan köken alan ve çoğunlukla non-Hodgkin tipte olan nadir bir malign tümör türüdür. Tüm gastrointestinal lenfomaların yarıdan fazlası mideye yerleşir. Hem hematolojinin hem de gastroenterolojinin ilgi alanına giren mide lenfomaları, çeşitli klinik, tanısal ve tedavi yaklaşımları gerektirir.
+
+Mide lenfoması, mide kanserlerinin yaklaşık %5-10’unu oluşturur; buna karşın, tüm non-Hodgkin lenfomaların da %30’dan fazlasının ekstranodal formlarında ilk yerleşim yeridir. En sık 50 yaş üstünde ve hafif erkek predominansı ile görülür.  
+En yaygın alt tip, **MALT (Mukoza İlişkili Lenfoid Doku) lenfoması**dır; Diffüz büyük B hücreli lenfoma (DLBCL) ise ikinci sıklıkta yer alır.
+
+Mide lenfomasının patogenezinde en önemli faktörlerden biri **Helicobacter pylori** enfeksiyonudur. H. pylori, uzun süreli inflamasyon yaratarak mide mukozasında lenfoid doku hiperplazisine ve zamanla malign klonların gelişmesine zemin hazırlar.  
+MALT lenfoma, sıklıkla indolandır ve H. pylori’den bağımsız hale gelebilecek kromozomal translokasyonlar sonucu ilerleyici agresyon gösterebilir.  
+DLBCL gibi yüksek dereceli lenfomalar ise genellikle daha hızlı seyir gösterir.
+
+## Klinik Belirtiler
+
+Mide lenfoması klinik olarak sinsi ilerler ve çoğu zaman nonspesifik bulgularla ortaya çıkar.  
+Başlıca semptomlar şunlardır:
+
+- Üst abdominal ağrı, rahatsızlık veya dolgunluk hissi  
+- İştah kaybı ve istemsiz kilo kaybı  
+- Bulantı, nadiren kusma  
+- Geç dönemde:  
+   - Anemiye neden olan gizli kanama (yorgunluk, halsizlik, solukluk)  
+   - Üst GIS kanaması (hematemez veya melena)  
+- Bağırsak obstrüksiyonu ve perforasyon gibi acil tablolar nadirdir  
+- Bazı olgularda endoskopi sırasında tesadüfen saptanabilir
+
+## Tanı Yöntemleri
+
+### 1. Endoskopi
+
+Mide lenfoması sıklıkla endoskopik inceleme sırasında saptanır. Mukozada ülser, nodül, polipoid ya da diffüz kalınlaşma şeklinde çeşitli görünümler sergiler. Spesifik bir endoskopik bulgu yoktur; histopatolojik tanı biyopsi ile kesinleşir.
+
+
+### 2. Biyopsi ve Histopatoloji
+
+Doğru tanı için çoklu ve derin biyopsiler alınmalıdır.  
+Histopatolojik inceleme ile lenfomanın alt tipi (MALT, DLBCL vd.) immünohistokimyasal yöntemlerle belirlenir. Genetik analiz ve klonalite testleri de tanıda yardımcıdır.
+
+### 3. Görüntüleme Yöntemleri
+
+BT, MR, PET/BT, vd
+
+## Tedavi
+
+Mide lenfomasının tedavisi, alt tipine ve evresine göre değişir:
+
+### 1. H. pylori Eradikasyonu
+
+- **Düşük dereceli (MALT) lenfomalarda:** Sadece H. pylori eradikasyon tedavisi (üçlü antibiyotik+proton pompası inhibitörü) ile yüksek oranda gerileme sağlanabilir.  
+
+### 2. Kemoterapi ve İmmünoterapi
+
+- **Yüksek dereceli DLBCL:** Sistemik kemoterapi (ör: R-CHOP protokolü) ve gerekirse radyoterapi ile tedavi edilir.
+- İleri evre ya da sistemik tutulumlu hastalarda kemoterapi ana tedavi yöntemidir.
+
+### 3. Radyoterapi
+
+- Lokalize ve kemoterapiye dirençli olgularda veya seçilmiş düşük dereceli hastalarda uygulanabilir.
+
+### 4. Cerrahi
+
+- Mide lenfomasının primer tedavisinde cerrahinin yeri sınırlıdır. Günümüzde cerrahi tedavi esas olarak komplikasyon (kanama, perforasyon, tıkanma) gelişmesi durumunda veya tanı amaçlı uygulanır. Diğer tedaviler başarısız ise nadiren rezeksiyon uygulanır.
+
+## Prognoz
+
+Prognoz tümörün alt tipine, evresine ve tedaviye yanıtına bağlıdır:
+
+- **MALT lenfoması:** Erken evrede tanınır ve H. pylori tedavisine yanıt verenlerde, uzun dönem sağkalım oranları %90’ın üzerindedir.
+- **DLBCL ve ileri evre lenfomalarda:** Sağkalım oranı düşer fakat uygun sistemik tedavi ile tamamen remisyonda uzun süreli yaşam mümkündür.
+- **Nüks ve ilerleme riski:** Evre, tümörün yanıtı ve genetik alt yapı ile ilişkili olarak değişir.
+
+::: {.callout-note}
+Mide lenfoması, çoğunlukla Helicobacter pylori’ye bağlı gelişen, endoskopik ve histolojik olarak saptanan ve modern tıpta büyük oranda kür şansı olan nadir bir mide kanseridir. Takip ve tedavi sürecinde multidisipliner yaklaşım önemlidir.
+:::
+
+
+**Sayfa içeriği sadece bilgilendirme amaçlıdır, tanı ve tedavi için mutlaka doktorunuza başvurunuz.**

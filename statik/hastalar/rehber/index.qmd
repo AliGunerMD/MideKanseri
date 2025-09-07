@@ -1,0 +1,100 @@
+---
+title: ""
+toc: true
+toc-location: left
+---
+
+
+Bu broşür KTÜ Genel Cerrahi ABD’de mide ameliyatı geçirecek hastaları bilgilendirmek, tedavi ve takip süreci içinde akıllarında oluşabilecek soruları çözümlemek amacıyla oluşturulmuştur. 
+
+# İlk görüşme
+Öncelikle geçmiş olsun.  
+Bugüne kadar yapılan tetkik ve tahlillerle tedavi edilmesi gereken bir mide rahatsızlığınız olduğu saptandı. Bu aşamadan sonra ilave tetkiklerle hastalığınız için nasıl bir tedavi planı uygulanacağı (ilaç tedavisi mi yoksa ameliyat tedavisi mi) belirlenmeye çalışılacak, ameliyat gerekecekse ameliyat riskinizin belirleneceği bazı tetkikler yapılacaktır.   
+
+Sizin için gereken tedavi planını belirleyen en önemli faktör hastalığınızın tahmini evresidir (tıp dilinde “klinik evre” olarak geçer). Genellikle dört ana evrede (ve bazı alt evreler) sınıflandırılan hastalığınız için bu evrenin tahmin edilmesi/belirlenmesi için bazı yardımcı görüntüleme yöntemleri ve testler kullanılır.  
+
+Bu tetkikler içinde sadece *bilgisayarlı tomografi* tüm hastalara uygulanırken, diğer yöntemlerin gerekliliği kişiye ve hastalığa bağlı olarak değişmektedir.  
+
+Bu amaçla şu tetkikler planlanacaktır;   
+**1.	Bilgisayarlı tomografi:** Midenizdeki problemin boyutlarını (evresini) değerlendirmek üzere karın bölgesine Bilgisayarlı Tomografi filmi istenecektir. Buna ilave olarak aynı işlemde akciğer tomografisi de çekilecek, akciğerinizde bir problem olup olmadığı değerlendirilecektir. Bu filmin sonucuna göre tedavinizin şekli belirlenecek, ya ilaç tedavisi ya da ameliyat tedavisi planlanacaktır.   
+**2.	MR (Gereklilik halinde):** Bilgisayarlı tomografinin yanıtlayamadığı bazı durumları netleştirmek için (karaciğer vs değerlendirmesi) gerekebilir.  
+**3.	PET (Gereklilik halinde):** Bilgisayarlı tomografinin yanıtlayamadığı bazı durumları netleştirmek için (uzak organ yayılımları vs) gerekebilir. Bazı hastalık tiplerinde PET rutin olarak kullanılmakla birlikte mide için durum biraz farklıdır ve rutin kullanımı dünyanın hiçbir yerinde/kılavuzunda önerilmemektedir.  
+**4.	Tanısal laparoskopi (Gereklilik halinde):**  Görüntüleme yöntemleri periton dediğimiz karın zarında hastalık olup olmadığını çoğunlukla göstermeyebilir. Bunu değerlendirebilmek için en ideal yöntem tanısal laparoskopidir (Kapalı yöntemle karın içinin gözlenmesi). Bu yöntem ameliyathanede genel anestezi altında uygulanan bir yöntemdir. Siz anestezi ekibi tarafından uyutulduktan sonra karın duvarınızdan bir kamera ile girilerek karın zarınız incelenir, gereklilik halinde sıvı örneklemesi yapılır. İlave bir problem çıkmadığı takdirde aynı gün ya da ertesi gün taburcu edilirsiniz.  
+**5.	 Endoskopi (Gereklilik halinde):**  Her ne kadar daha önceki dönemde endoskopi yapılarak mideye bakılmış olsa da bunun ameliyat öncesinde ameliyat ekibi tarafından yapılması ameliyat planını netleştirmek için gerekebilmektedir. Eğer doktorunuz buna gerek duyarsa ameliyattan önceki bir dönemde size endoskopi işlemi yapacaktır. Bu işlem anestezi doktorunun kontrolünde, sedasyon denilen uyutma işleminin ardından yapılacaktır.  
+
+Bu tetkiklerden sonra tedavi planınız belirlenecektir. En sık kullanılan muhtemel tedavi yöntemleri:  
+•	**Doğrudan cerrahi tedavi:** Ameliyat hazırlığı yapılıp bir engel bulunmaması durumunda ameliyat uygulanır.  
+•	**Önce ilaç sonra cerrahi tedavi:** Öncelikle ilaç tedaviniz medikal onkoloji bölümü tarafından planlanacaktır. Bu tedavi yöntemi dünya standartlarında uygulanan tedavilerin aynısıdır. İlaç tedaviniz bittikten sonra hem tedavi etkinliğinin sağlanması, hem de ilaç ile oluşabilecek yan etkilerin düzelmesi için 3-4 haftalık bekleme sonrasında cerrahi tedaviniz planlanır. Bu süre içinde  değişimi değerlendirmek için bilgisayarlı tomografi filmi yeniden çekilir ve endoskopi işleminiz tekrarlanabilir. Sonrasında ameliyat hazırlığı yapılıp bir engel bulunmaması durumunda ameliyat uygulanır.  
+•	**İlaç tedavisi:** Bu tedavi planı yapılmışsa tedaviniz medikal onkoloji bölümü tarafından planlanacaktır. İlerleyen dönemde hastalığınızdaki değişim yeniden incelenecek ve uygun görülmesi durumunda cerrahi tedavi planı değerlendirilecektir.
+
+
+# Ameliyat öncesi hazırlık
+**Anestezi hazırlığı:** Tedavinizin herhangi bir döneminde ameliyat kararı alınmışsa öncelikli olarak ameliyat hazırlığı yapılacaktır. Ameliyat hazırlığı için kan testleri, kalp grafisi, akciğer filmi gibi tetkikler yapılıp ameliyat riski (narkoz riski) Anestezi bölümü tarafından belirlenecektir. Bu risk belirleme aşamasında kalp hastalığı, şeker, akciğer hastalığı, böbrek hastalığı gibi problemleriniz varsa ilgili bölümlere de muayene olmanız sağlanacaktır.  
+
+Bu değerlendirme devam ederken ameliyat süreci için ilave hazırlıklar da bulunmaktadır. Tüm bu hazırlıklar poliklinik şartlarında yapıldığı gibi hastanın genel durumunun elvermemesi, hastaneye ulaşımı zor bir yerde yaşıyor oluşu ya da hastanın tercihi gibi faktörlere göre gerekirse servise yatırılıp Genel Cerrahi servisinde görevli doktor, hemşire ve personel tarafından uygulanacaktır.   
+**1.	Kansızlık durumu:** Mide rahatsızlıklarında sıklıkla gizli/aşikar kan kaybı olduğu için kansızlığınız bulunabilir. Kan tahlillerinizdeki değerlere göre bu kolaylıkla anlaşılabilmektedir. Eğer kansızlığınız varsa ameliyat öncesi kan seviyenizi yükseltmek için size kan ya da demir ilacı verilebilir. Bu size tetkik aşamalarında bildirilecektir.  
+**2.	Kan sulandırıcı ilaç:** Kan sulandırıcı ilaçların bir kısmı (aspirin, coraspin gibi) ameliyat döneminde kanamaya neden oldukları için ameliyattan 5-7 gün önce kesilmelidir. Hazırlık aşamasında bu da size sorulacak, eğer ameliyata etki edecek bir kan sulandırıcı kullanıyorsunuz bu kesilecek (aksini gerektiren özel bir durum bulunmadığında), onun yerine size koldan yapılan iğneler verilecektir. Bunun dışındaki tansiyon, şeker ve benzeri ilaçlarınızı ameliyat gününe kadar kullanacaksınız.  
+**3.	Beslenme durumu:** Tetkik aşamasında beslenme durumunuz değerlendirilecektir. Gerek duyulursa bağışıklık sisteminiz için portakal suyu tadında bir toz ilaç size verilecektir. Ameliyattan önceki dönemde günde 1-2 tane bundan içmeniz yararınıza olacaktır. Eğer son zamanlarda ciddi kilo kaybı ya da yemek yiyememe şikâyetiniz olmuşsa ilave olarak bazı beslenme ilaçları verilecektir. Yemek yeme konusunda ciddi probleminiz varsa ameliyat öncesi dönemde hastaneye yatırılarak damardan beslenme tedavisi almanız gerekebilir.  
+**4.	 Aydınlatılmış onam formu (Tedavi için izin formu):** Size öngörülen tedavinin yapılabilmesi için sizin ve yakınlarınızın tüm riskleri bilerek tedaviye izin vermesi gerekmektedir. Ameliyat sürecinde ve sonrasında gerek hastalığınızla gerek ameliyatınızla ilgili oluşabilecek riskler doktorunuz tarafından size anlatılmıştı. Hazırlık aşamasında size verilen bu onam formunda komplikasyon ihtimalleri daha detaylı anlatılmaktadır. Hastanın ve yakınlarının bu formu dikkatlice okumalarını, kafalarında oluşan soruları ameliyat öncesi dönemde mutlaka sormalarını, ameliyattan önce bu formun imzalanarak ameliyata ve diğer tedavilere izin verildiğinin belirtilmesi gerekmektedir.  
+**5.	 Gerekli malzemeler:** Ameliyat hazırlık sürecinde kullanacağınız bazı medikal malzemeler sosyal güvenlik kurumu karşılamadığından hastanede bulunmayabilir. Bunların tarafınızdan temini gerekmektedir. Bunlar;  
+*a.	Emboli (pıhtı önleme) çorabı:* Ameliyat günü ameliyata giderken giyeceğiniz emboli çorapları ameliyat sürecinde ve sonrasında bacaklarınızdaki toplardamarlarda pıhtı oluşma ihtimalini azalttığından tüm hastalara giydirilmektedir. Özel bir durum oluşmadıkça ameliyat sonrası dönemde 3-5 gün boyunca (bazen 1 ay kadar) da giyili kalması istenecektir.  
+*b.	Karın korsesi:* Ameliyat bölgesi karın bölgesinde olduğundan hem ameliyat sonrası fıtık oluşması riskinin azaltılması, hem de hastanın korkmadan daha rahat hareket edebilmesi için normal karın korsesini ameliyat sonrası dönemde, özellikle yürümek için kalktığınızda takmanız istenecektir. Bu korseyi taburcu olduğunuz güne kadar hatta daha sonraki 2-3 hafta içinde de takmanız önerilir.  
+*c.	Solunum egzersiz cihazı (Triflo):* Ameliyat sürecinde akciğer problemi yaşanması ihtimalini azaltmak amacıyla solunum egzersiz cihazı ile akciğer kapasitenizi artırmak amaçlanmaktadır. Bu cihaz ameliyat sonrası dönemde taburcu olduğunuz zamana kadar aralıklı olarak ve kısa sürelerle (saat başı 5 dakika ya da iki saatte bir 10 dakika gibi) kullanacağınız bir cihazdır. Önerimiz bu cihazın ameliyat öncesi dönemde de bir hafta süreyle kullanılmasıdır. Bu hem ameliyat öncesi dönemde akciğer kapasitenizi artıracak, hem de ameliyat sonrası süreçte hastanın cihazı kullanmasını kolaylaştıracaktır.  
+
+Bu hazırlıklar bitip ameliyat için karar verildiğinde muhtemel *ameliyat tarihi* size bildirilecektir. Bu bazen sizin durumunuz ya da hastane ameliyathane programının durumuna göre 1-2 gün ile 1-2 hafta arasında değişmektedir. Ameliyat tarihine kadar olan süreyi isterseniz hastanede geçirebileceğiniz gibi özel bir durumunuz yoksa evde de geçirebilirsiniz. Eğer daha öncesinde yatışınız yapılmamışsa normal uygulamamız ameliyat tarihinden iki gün önce yatış işlemlerinin yapılması şeklindedir. Yatış için geleceğiniz gün aksi belirtilmedikçe yemek yemenizde bir sakınca yoktur ve normal bir gün yaşamanız önerilir. Yatış günü ve ertesi gün son kontroller ve hazırlıklar sağlanacak, sizin hastane ortamına alışmanız için zaman kazanılacaktır. Ameliyat günü gecesine kadar (gece 12.00) yeme içme konusunda bir kısıtlama uygulanmamaktadır ancak son gün (ameliyattan bir gün önce) sizi rahatsız edici yemeklerden kaçınmanız önerilir. 
+
+Yatışınız yapıldıktan sonra tamamlanması gereken bir diğer hazırlık *kan hazırlığıdır*. Ameliyatta ya da ameliyat sonrasında hastalara kan vermek gerekebilmektedir. Acil olarak kan temini zor olacağından bunun önceden hazırlanması gerekmektedir. Hastanın durumuna göre değişmekle birlikte genellikle 3 ünite kanın hazır bulunması yeterli olmaktadır. Bunun için gerekli prosedürler servis ekibi tarafından size bildirilecektir.  
+Son hazırlık sürecindeki diğer tedavi gereklilikleri servis ekibi tarafından tamamlanacaktır. 
+
+
+
+# Ameliyat süreci
+Ameliyat günü, ameliyat programına göre uygun bir saatte ameliyathaneye götürüleceksiniz. Gitmeden önce gerekli ilaçlar size uygulanacak, emboli (pıhtı) çorabını giymeniz istenecektir. Ameliyathaneye girer girmez ameliyatın başlamadığını bilmelisiniz. Sizden önce ameliyat edilen hastanın odadan çıkarılması, oda temizliği ve sizin anestezi öncesi dönemde serum/ilaçlar ile anesteziye hazırlanmanız vakit alan bir işlemdir. Ameliyathaneye girdikten sonra ameliyatın başlamasına kadar olan süre bir saati bulabilmektedir.
+
+Ameliyat süresi, size uygulanacak olan tekniğe göre değişiklik göstermektedir. Bu süre 1.5 saat ile 5 saat arasında değişebilmektedir. Ameliyatınız bittiğinde uyanma odasına alınacaksınız. Özel bir sağlık durumu olmadığı müddetçe yoğun bakım takibi rutin olarak uygulanmamaktadır. Anestezi ilaçlarının etkisinin azalması ve servisteki yatağınıza gönderilmeden önce yaklaşık bir saatlik bir süre uyanma odasında bekletileceksiniz. Ameliyat sonrasındaki bilgilendirme ameliyatınıza giren doktor/ekip tarafından aynı gün uygun bir saatte serviste/bekleme odasında yapılacaktır. 
+
+Ameliyat sonrası takip ve tedavi süreci yoğun ve uzun bir bakım sürecidir. Bu konudaki tüm aşamalar servis doktorları, hemşireleri ve görevli personellerce yapılacaktır. Ameliyat sonrası dönemde burnunuzda nazogastrik denilen bir sonda, idrar sondası ve ameliyat bölgesine koyulan drenler olacaktır. Bu sonda ve drenler ameliyatı takip eden günler içinde gerekliliği kalmadığında çıkarılacaktır. Mide bölgesindeki dikişlerin iyileşmesini beklemek için ilk günler herhangi bir sıvı ya da gıda alımına izin verilmeyecek, serum ile beslenmeniz sağlanacaktır. Ameliyatınızın tekniğine göre 2-5 gün içinde su, meyve suyu gibi sıvı gıdalar, sonrasında ise çorba, yoğurt gibi gıdalar verilecektir. Bu sıvıların başlanmasından önce mavi boyalı bir su ile kontrol yapılacak, bir problem olmaması durumunda sıvı alımınıza izin verilecektir. Bu süre hastadan hastaya değişebilmektedir.
+
+Ameliyat sonrasındaki dönemde sizden beklenen mümkün olduğunca erken dönemde ayağa kalkmanız (mümkünse aynı gün akşamı, ya da en geç ameliyattan bir gün sonra), kısa yürüyüşler yapmanız, zamanınızı mümkün oldukça yatak dışında geçirmenizdir. Ayrıca solunum egzersiz cihazını çalışmanız istenecektir.
+
+# Taburculuk sonrası
+Drenleriniz çıkarıldığında, önemli bir sağlık probleminiz bulunmadığında, sıvı ve yumuşak gıdalar yiyebildiğinizde taburcu olmanızda bir engel kalmayacaktır. Taburculuk genellikle ameliyat sonrası 5-10 gün içinde (klinik ortalamamız 7 gün) olmaktadır. Bir komplikasyon gelişmesi, ek ilaç tedavilerinizin olması, yaşadığınız yerin uzakta olması gibi nedenlerle yatış süresi daha uzun olabilmektedir. Taburcu olurken bir süre daha kullanmanız için size ilaçlar reçete edilecektir. Bunları kontrole geldiğiniz tarihe kadar kullanın, ilk kontrol görüşmesinden sonra bunların birçoğunun kullanımına gerek kalmayacak, sadece daha önceden kullandığınız kendi ilaçlarınıza devam etmeniz önerilecektir. 
+
+Ameliyattan sonraki dönemde ameliyat bölgenize pansuman gerekmemektedir ve banyo yapmanızda sakınca yoktur. Ameliyat bölgesinin ıslanması bir problem yaratmamaktadır. Sadece dren yerlerinin bir süreliğine kuru ve kapalı tutulması gerekmektedir. Taburcu olduğunuzda sıvı ve yumuşak gıdaları yiyebiliyor olacaksınızdır. Önünüzdeki bir hafta boyunca da benzer şekilde yemeye devam etmeniz, çok katı ve büyük miktardaki yemekleri yemekten kaçınmanız önerilir. İlk kontrolünüzde bundan sonrası için nasıl beslenmeniz gerektiği size anlatılacaktır. Normal hayatınızdaki beslenme şekli ile devam edebileceğiniz gibi bizim önerimiz az az ama sık sık yemek yemeniz olacaktır. Günde 3 ana öğün ve 3 ara öğün ile toplam 6 öğün yemek yemeniz gerekli besin alımını size sağlayacaktır. Besin alımınızın kalitesi takip sürecindeki kilo değişimlerinize göre takip edilecektir. Beslenme durumunuza göre gerektiğinde size beslenme ilaçları raporu çıkarılacak ve beslenme desteği verilecektir.
+
+# Kontroller
+Ameliyat olduğunuz günden sonraki 15.günde dikişleriniz alınacaktır. Ameliyatta patolojiye tahlil gönderilmişse bunun sonucu da yaklaşık 15.gün (Patoloji bölümünün yoğunluğuna bağlı olarak uzayabilmektedir) çıkmaktadır. Bu sebeple ilk kontrol tarihiniz, ameliyat gününden yaklaşık 15 gün sonrasıdır (Tahmini taburcu tarihinden 5-10 gün sonrası). Bu ilk kontrol görüşmesinde kan tahlilleriniz tekrarlanacak, gerekli öneriler ve ilave tedaviler size anlatılacaktır. 
+
+Bu ve sonraki kontrolleriniz sırasıyla;
+•	Ameliyatın 15.günü (ilk kontrol) (kan tahlili-muayene)   
+•	Gereklilik halinde 1.ay kontrolü- beslenme ve hayat kalitesi değerlendirilmesi, ek öneriler   
+•	3 ay sonra (kan tahlili-muayene)   
+•	6 ay sonra (kan tahlili-muayene-bilgisayarlı tomografi veya PET)   
+•	9 ay sonra (kan tahlili-muayene)   
+•	1 yıl sonra (kan tahlili-muayene-bilgisayarlı tomografi veya PET, gerekirse endoskopi)    
+olarak yapılacaktır. Bu takipler Genel Cerrahi bölümü ya da Medikal Onkoloji böülümü tarafından yapılacaktır.
+
+Bundan sonraki takipler 6-12 aylık aralarla olacak şekilde planlanacak ve size bildirilecektir (il dışından gelen hastalar için de benzer takip programı uygulanmaktadır ancak bazı tahliller ve tetkikleri bulunduğunuz yerde yaptırıp doktorunuza ktumide@gmail.com adresinden elektronik posta ile iletebilirsiniz).
+
+# Acil durumlarda ne yapmalısınız?
+Gerek ameliyat sürecinde gerek taburcu sonrası döneminizde ameliyat ekibinize ve doktorunuza ulaşmanız gerekebilir. Bunun için;
+
+1. Genel Cerrahi polikliniğine mesai saatleri içinde istediğiniz herhangi bir gün başvurabilirsiniz. Bunun için telefon ile randevu almanız zorunlu olmamakla birlikte gelmeden önce poliklinik sekreterliğini arayarak doktorunuzun görevli olup olmadığını öğrenebilir, randevu alabilirsiniz. 
+
+2. Mesai saatleri dışında ve tatil günlerinde acil bir durum oluştuğunda KTÜ Tıp Fakültesi Acil Bölümüne başvurabilirsiniz. Acil birimine başvurduğunuzda KTÜ Genel Cerrahi bölümünde mide ameliyatı olduğunuzu söyleyip nöbetçi genel cerrahi ekibine haber verilmesini isteyebilirsiniz. Genel Cerrahi ekibi sizi değerlendirecek, ameliyatınızı yapan doktorun durumunuzdan haberdar olması sağlanacak, genel cerrahi açısından gerekli tedaviniz sağlanacaktır. Bazen Acil bölümünün yoğunluğundan dolayı iletişim sağlanamayabilmektedir. Bu durumda siz kendiniz Genel Cerrahi servisine gelip haber verebilirsiniz.
+
+3. Eğer farklı bir hastaneye acil olarak başvurmanız gerekirse KTÜ Genel Cerrahi bölümünde mide ameliyatı olduğunuzu söyleyin ve aşağıda yer alan numaralardan bize haber verilmesini sağlayın. Tedavinizi o hastanede almanız ancak gerek görülmesi halinde KTÜ Genel Cerrahi bölümüne nakliniz sağlanacaktır. Tüm takip sürecinde hastalığınızla ilgili meydana gelebilecek problemlerde KTÜ Genel Cerrahi Üst GİS Cerrahisi bölümü olarak tedavi olmanız sağlanacaktır. 
+
+4. Hastaneye gelmeden bilgi alabilmek için aşağıda kayıtlı telefon numaralarını arayarak ya da e-posta ile ulaşarak bilgi alabilirsiniz.
+
+Doktorunuzun hastalar ve ameliyatlar dışında öğrenci eğitimi, asistan eğitimi, ulusal ve uluslararası toplantılarda konuşmacı olma, farklı klinik araştırmalarda sorumlu olma gibi birçok faaliyeti kapsayan öğretim üyeliği görevi de olduğunu, size uygulanan tedavinin tek kişi ile değil bir ekip ile beraber yapıldığını, ekibin tüm bireylerinin aynı sorumlulukta hareket ettiğini lütfen aklınızdan çıkarmayın.
+
+# Telefon numaraları ve e-posta    
+*Genel Cerrahi Poliklinik Sekreterliği:* 0462 - 3775485, 0462 - 3775612  
+*Genel Cerrahi Endoskopi Ünitesi:* 0462 - 3775692  
+*Genel Cerrahi Servisi Doktor Odası:* 0462 - 3775559, 0462 - 3775926   
+*Genel Cerrahi Servisi Hemşire Bankosu:* 0462 - 3775241, 0462 - 3775242  
+
+e-posta: ktumide@gmail.com
+
+
