@@ -20,6 +20,13 @@ website:
         href: index.qmd
       - text: "Hasta rehberi"
         href: statik/hastalar/rehber/index.qmd
+      - text: "Belgeler"
+        href: statik/belgeler/index.qmd
+      - text: "Biz Kimiz"
+        href: statik/about/index.qmd
+      - text: "İletişim"
+        href: statik/iletisim/index.qmd  # İletişim bağlantısı
+    right:
       - text: "Hastalıklar"
         menu:
           - text: "Mide kanseri (Adenokanser)"
@@ -46,13 +53,6 @@ website:
             href: statik/doktorlar/kilavuzlar/index.qmd
           - text: "Önemli Makaleler"
             href: statik/doktorlar/makaleler/index.qmd
-      - text: "Belgeler"
-        href: statik/belgeler/index.qmd
-    right:
-      - text: "Biz Kimiz"
-        href: statik/about/index.qmd
-      - text: "İletişim"
-        href: statik/iletisim/index.qmd  # İletişim bağlantısı
       - text: "Blog"
         href: blog.qmd 
   page-footer: "Bu websayfası **Prof. Dr. Ali Güner** tarafından hazırlanmıştır. Sayfa içeriği sadece bilgilendirme amaçlıdır, tanı ve tedavi için mutlaka doktorunuza başvurunuz."
@@ -81,4 +81,5 @@ format:
 
 execute:
   freeze: auto
+  
 
