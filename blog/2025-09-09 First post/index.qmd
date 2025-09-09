@@ -1,0 +1,44 @@
+---
+title: "Bu websitesi neden var?"
+description: "Uzun yıllar verilen emeğin ve sistemin bir diğer uzantısı"
+author: [Ali Güner]
+date: "9/9/2025"
+date-modified: "9/9/2025"
+draft: false
+categories:
+  - website
+image: "thumbnail.jpg"
+---
+
+
+
+# Neden midekanseri.org’u Kurdum?
+
+Mide kanseriyle karşılaşmak; hasta, yakınları ve bakım verenler için hem duygusal hem de bilgi ihtiyacı yaratan zor bir süreçtir. Bu sitenin amacı, bu süreci yaşayan herkese güvenilir, erişilebilir ve anlaşılır bir kaynak sunmaktır. İşte midekanseri.org’u kurma nedenlerim:
+
+## 1. Güvenilir ve anlaşılır bilgi sağlamak
+- **Mide kanseri hakkında doğru bilgi:** İnternette pek çok kaynak bulunuyor, ancak hepsi güvenilir ya da güncel değil. Amacım, bilimsel verilere ve uzman görüşlerine dayanan, anlaşılır içerikler sunmak.
+- **Tıbbi jargonun sadeleştirilmesi:** Hastalar ve aileleri için tıbbi ifadelerin sadeleştirilmiş, günlük dile çevrilmiş açıklamalarına yer veriyorum.
+
+## 2. Hastaların ve yakınlarının ihtiyaçlarına cevap vermek
+- **Tedavi süreci ve takip hakkında rehberlik:** Ameliyat, kemoterapi, radyoterapi, diyet değişiklikleri ve takip planları gibi konularda pratik bilgiler paylaşmak.
+- **Yemek, ilaçlar ve yaşam kalitesi önerileri:** Beslenme, egzersiz, ağrı yönetimi ve psikolojik destek gibi günlük yaşamı etkileyen konularda yol gösterici içerikler sunmak.
+
+## 3. Yaşam deneyimlerini ve destek ağını güçlendirmek
+- **Hikayeler ve deneyimler:** Hastaların, yakınlarının ve sağlık profesyonellerinin deneyimlerini paylaşabilecekleri bir platform oluşturarak yalnızlık hissini azaltmayı hedefliyorum.
+- **Topluluk ve dayanışma:** Bilgi kadar duygusal destek de önemlidir; forumlar, yorumlar ve destek kaynaklarıyla dayanışmayı teşvik ediyorum.
+
+## 4. Erişilebilirlik ve yerel kaynaklara yönlendirme
+- **Yerel sağlık hizmetleri ve iletişim bilgileri:** Türkiye’deki merkezler, poliklinikler, hasta dernekleri ve yardım hatları hakkında bilgi veriliyor.
+- **Güncel rehberler ve bağlantılar:** Tanı ve tedavi rehberleri, beslenme önerileri ve güvenilir dış kaynaklara kolay erişim sağlanıyor.
+
+## 5. Bilinçlendirme ve erken tanı önemini vurgulamak
+- **Erken tanının önemi:** Mide kanserinde erken tanının hayat kurtarıcı olduğu gerçeğini yaygınlaştırmak istiyorum.
+- **Belirti ve tarama bilgileri:** Hangi belirtiler dikkat çekmeli, hangi durumlarda doktora başvurulmalı gibi pratik uyarılar veriliyor.
+
+## 6. Sürekli güncellenen, bilimsel temelli içerik sunmak
+- **Bilimsel gelişmeleri takip etmek:** Yeni tedaviler, klinik çalışmalardaki yenilikler ve kılavuzlardaki değişiklikler düzenli olarak güncellenecek.
+- **Uzman katkıları:** İmkanlar ölçüsünde onkoloji, cerrahi, beslenme ve psikoloji gibi alanlardan uzman katkılarına yer verilmesi hedefleniyor.
+
+## Sonuç
+Midekanseri.org’u kurma amacım; hastalara, yakınlarına ve topluma doğru, empatik ve uygulanabilir bilgi sunmak; yalnız olmadıklarını hissettirmek; ve erken tanı, uygun tedavi ve yaşam kalitesine katkıda bulunmaktır. Bu platformu sizlerin geri bildirimleriyle daha iyi hale getireceğim. Sorularınız, önerileriniz veya paylaşmak istediğiniz hikâyeler varsa lütfen iletişime geçin — birlikte daha güçlüyüz.
