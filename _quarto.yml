@@ -20,12 +20,12 @@ website:
         href: index.qmd
       - text: "Hasta rehberi"
         href: statik/hastalar/rehber/index.qmd
+      - text: "İletişim"
+        href: statik/iletisim/index.qmd  # İletişim bağlantısı
       - text: "Belgeler"
         href: statik/belgeler/index.qmd
       - text: "Biz Kimiz"
         href: statik/about/index.qmd
-      - text: "İletişim"
-        href: statik/iletisim/index.qmd  # İletişim bağlantısı
     right:
       - text: "Hastalıklar"
         menu:

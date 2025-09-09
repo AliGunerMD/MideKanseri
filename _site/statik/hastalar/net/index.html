@@ -30,6 +30,7 @@ ul.task-list li input[type="checkbox"] {
 <script src="../../../site_libs/quarto-search/fuse.min.js"></script>
 <script src="../../../site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="../../../">
+<link href="../../../assets/images/biyikli.png" rel="icon" type="image/png">
 <script src="../../../site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="../../../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
 <script src="../../../site_libs/quarto-html/popper.min.js"></script>
@@ -67,6 +68,15 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Ara"
   }
 }</script>
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=G-RT0X40FTN3"></script>
+
+<script type="text/javascript">
+
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+gtag('config', 'G-RT0X40FTN3', { 'anonymize_ip': true});
+</script>
 <style>html{ scroll-behavior: smooth; }</style>
 
 
@@ -94,11 +104,29 @@ ul.task-list li input[type="checkbox"] {
     <a class="nav-link" href="../../../index.html"> 
 <span class="menu-text">Ana Sayfa</span></a>
   </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../../../statik/hastalar/rehber/index.html"> 
+<span class="menu-text">Hasta rehberi</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../../../statik/iletisim/index.html"> 
+<span class="menu-text">İletişim</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../../../statik/belgeler/index.html"> 
+<span class="menu-text">Belgeler</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../../../statik/about/index.html"> 
+<span class="menu-text">Biz Kimiz</span></a>
+  </li>  
+</ul>
+            <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item dropdown ">
     <a class="nav-link dropdown-toggle" href="#" id="nav-menu-hastalıklar" role="link" data-bs-toggle="dropdown" aria-expanded="false">
  <span class="menu-text">Hastalıklar</span>
     </a>
-    <ul class="dropdown-menu" aria-labelledby="nav-menu-hastalıklar">    
+    <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="nav-menu-hastalıklar">    
         <li>
     <a class="dropdown-item" href="../../../statik/hastalar/adenoca/index.html">
  <span class="dropdown-text">Mide kanseri (Adenokanser)</span></a>
@@ -141,7 +169,7 @@ ul.task-list li input[type="checkbox"] {
     <a class="nav-link dropdown-toggle" href="#" id="nav-menu-doktorlar-i̇çin" role="link" data-bs-toggle="dropdown" aria-expanded="false">
  <span class="menu-text">Doktorlar İçin</span>
     </a>
-    <ul class="dropdown-menu" aria-labelledby="nav-menu-doktorlar-i̇çin">    
+    <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="nav-menu-doktorlar-i̇çin">    
         <li>
     <a class="dropdown-item" href="../../../statik/doktorlar/kilavuzlar/index.html">
  <span class="dropdown-text">Güncel Kılavuzlar</span></a>
@@ -153,22 +181,8 @@ ul.task-list li input[type="checkbox"] {
     </ul>
   </li>
   <li class="nav-item">
-    <a class="nav-link" href="../../../statik/belgeler/index.html"> 
-<span class="menu-text">Belgeler</span></a>
-  </li>  
-</ul>
-            <ul class="navbar-nav navbar-nav-scroll ms-auto">
-  <li class="nav-item">
     <a class="nav-link" href="../../../blog.html"> 
 <span class="menu-text">Blog</span></a>
-  </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="../../../statik/about/index.html"> 
-<span class="menu-text">Biz Kimiz</span></a>
-  </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="../../../statik/iletisim/index.html"> 
-<span class="menu-text">İletişim</span></a>
   </li>  
 </ul>
           </div> <!-- /navcollapse -->
@@ -385,7 +399,7 @@ Not
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp('/' + window.location.host + '/');
+        var filterRegex = new RegExp("https:\/\/midekanseri\.org\/");
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }
@@ -713,6 +727,19 @@ Not
   });
   </script>
 </div> <!-- /content -->
+<footer class="footer">
+  <div class="nav-footer">
+    <div class="nav-footer-left">
+      &nbsp;
+    </div>   
+    <div class="nav-footer-center">
+<p>Bu websayfası <strong>Prof.&nbsp;Dr.&nbsp;Ali Güner</strong> tarafından hazırlanmıştır. Sayfa içeriği sadece bilgilendirme amaçlıdır, tanı ve tedavi için mutlaka doktorunuza başvurunuz.</p>
+</div>
+    <div class="nav-footer-right">
+      &nbsp;
+    </div>
+  </div>
+</footer>
 
 
 
