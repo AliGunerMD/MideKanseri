@@ -71,7 +71,7 @@ format:
   html:
     theme: 
       - cosmo  # İsteğe bağlı tema
-    css: assets/css/styles.css  # CSS dosyası
+    # css: assets/css/styles.css  # CSS dosyası
     toc: false
     toc-location: right
     page-layout: article

@@ -54,11 +54,11 @@ email: [ktumide@gmail.com](mailto:ktumide@gmail.com)
 ::: {.g-col-6}
 ### 📪 Adres
 Karadeniz Teknik Üniversitesi Tıp Fakültesi   
-Farabi Hastanesi Genel Cerrahi Polikliniği   
-Öğretim Üyesi Muayene Odası (No: 4)    
+Farabi Hastanesi Genel Cerrahi Poliklinik Sekreterliği   
 Trabzon/Türkiye  
 
-![](assets/images/pol_1.jpeg){width="70%"}
+<!-- ![](assets/images/pol_1.jpeg){width="70%"} -->
+
 
 
 :::
