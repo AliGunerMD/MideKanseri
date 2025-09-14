@@ -53,6 +53,8 @@ website:
             href: statik/doktorlar/kilavuzlar/index.qmd
           - text: "Önemli Makaleler"
             href: statik/doktorlar/makaleler/index.qmd
+      - text: "İkinci görüş"
+        href: statik/hastalar/second/index.qmd 
       - text: "Blog"
         href: blog.qmd 
   page-footer: "Bu websayfası **Prof. Dr. Ali Güner** tarafından hazırlanmıştır. Sayfa içeriği sadece bilgilendirme amaçlıdır, tanı ve tedavi için mutlaka doktorunuza başvurunuz."
