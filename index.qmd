@@ -4,7 +4,7 @@ title: "Mide Kanseri üzerine herşey"
 
 # Hoş Geldiniz
 
-Bu internet sayfası, ömrünü **mide kanseri**nin tanı ve tedavisi için geçirmiş olan bir hekimin en büyük hayali olan *"Dünya üzerindeki herkes en gelişmiş tedavi olanaklarına ulaşabilmelidir"* idealinin gerçekleşmesine yardımcı olması için oluşturulmuştur.  
+Bu internet sayfası, ömrünü **mide kanseri**nin tanı ve tedavisi için geçirmiş olan bir hekimin en büyük hayali olan *"Dünya üzerindeki herkes en güncel tedavi olanaklarına ulaşabilmelidir"* idealinin gerçekleşmesine yardımcı olması için oluşturulmuştur.  
 
 
 ![](assets/images/homepage_1.jpg){width="100%"}
