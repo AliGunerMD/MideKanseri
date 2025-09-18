@@ -1,7 +1,6 @@
 ---
-title: "Mide Kanseri üzerine herşey"
+title: ""
 ---
-
 # Hoş Geldiniz
 
 Bu internet sayfası, ömrünü **mide kanseri**nin tanı ve tedavisi için geçirmiş olan bir hekimin en büyük hayali olan *"Dünya üzerindeki herkes en güncel tedavi olanaklarına ulaşabilmelidir"* idealinin gerçekleşmesine yardımcı olması için oluşturulmuştur.  
@@ -48,7 +47,7 @@ Bu internet sayfası, ömrünü **mide kanseri**nin tanı ve tedavisi için geç
 ::: {.g-col-6}
 ### ☎️ İletişim
 Poliklinik sekreterliği: [0 (462) 377 5485](tel:04623775485)  
-email: [ktumide@gmail.com](mailto:ktumide@gmail.com)   
+E-posta: [ktumide@gmail.com](mailto:ktumide@gmail.com)   
 [Detaylı iletişim sayfası için tıklayınız](https://midekanseri.org/statik/iletisim/)
 
 :::
