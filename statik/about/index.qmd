@@ -2,11 +2,11 @@
 title: "Biz kimiz?"
 ---
 
-Bu websayfası **Prof. Dr. Ali Güner** tarafından yürütülmektedir.
+# **Prof. Dr. Ali Güner** 
 
 <!-- ::: {.center} -->
 
-![](../../assets/images/ag_profile.png){width="60%"}
+![](../../assets/images/ag_profile.png){width="40%"}
 
 <!-- ::: -->
 
@@ -39,6 +39,25 @@ Türk Klinik Enteral ve Parenteral Beslenme Derneği (2016 - Günümüze)
 Karadeniz Cerrahi Derneği - Dernek başkanı, Kurucu üye (2018 - Günümüze)   
 Ulusal Mide Kanseri Derneği - Kurucu üye (2024 - Günümüze)   
 Tıp Bilişimi Derneği (2024 - Günümüze)   
+
+
+
+# **Dr. Öğretim Üyesi Muhammed Selim BODUR** 
+<!-- ::: {.center} -->
+
+![](../../assets/images/selim_profile.jpg){width="60%"}
+
+<!-- ::: -->
+
+
+
+
+# **Dr. Öğretim Üyesi Kayahan EYÜBOĞLU** 
+<!-- ::: {.center} -->
+
+![](../../assets/images/kayahan_profile.jpg){width="60%"}
+
+<!-- ::: -->
 
 
 
